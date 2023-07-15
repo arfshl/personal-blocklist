@@ -29,6 +29,7 @@
 *.cn
 *.zip
 *.mov
+*.tk
 
 # Spamhaus most abused TLDs
 *.机构
