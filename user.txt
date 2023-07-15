@@ -1,4 +1,3 @@
-! for adguard/uBo
+! for adguard/uBo DNS
 
 @@||reddit.com^
-||github.com/AdguardTeam/$important
