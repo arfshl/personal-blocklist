@@ -1,3 +1,4 @@
 ! for adguard/uBo
 
 @@||reddit.com^
+||github.com/AdguardTeam/$important
