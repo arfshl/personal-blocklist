@@ -1,4 +1,3 @@
 ! for adguard/uBo
 
 @@||reddit.com^
-@@||siloamhospitals.com^
