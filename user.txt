@@ -6,3 +6,4 @@
 ! For uBlock Origin/AdGuard
 idntimes.com###channels-menu-modal > .container.more-menu-list
 popmama.com##.float-btn-tanya_ahli
+haibunda.com##.animate.shadow.pb-2\.5.pt-4.px-5.bg-white.gap-3.items-start.w-full.flex.z-30.pointer-events-auto.pnot
