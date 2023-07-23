@@ -7,4 +7,4 @@
 idntimes.com###channels-menu-modal > .container.more-menu-list
 popmama.com##.float-btn-tanya_ahli
 haibunda.com##.animate.shadow.pb-2\.5.pt-4.px-5.bg-white.gap-3.items-start.w-full.flex.z-30.pointer-events-auto.pnot
-fandom.com##.AgeGateDialog-module_overlay__aPtu5.Modal_overlay__7pQwi
+fandom.com###age-gate
