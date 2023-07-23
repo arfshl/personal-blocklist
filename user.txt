@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Title: User Filter
+! Version: 23.7.23
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
 ! For uBlock Origin/AdGuard
 idntimes.com###channels-menu-modal > .container.more-menu-list
 popmama.com##.float-btn-tanya_ahli
