@@ -24,6 +24,11 @@
 *register.xmpush.global.xiaomi.com
 *clevertap-prod.com
 *oppomobile.com
+*onlyfans.com
+*wx.qq.com
+*weixinbridge.com
+*weixin.qq.com
+*wechat.com
 
 # TLD
 *.cn
