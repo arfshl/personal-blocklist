@@ -1,15 +1,15 @@
 # Denylist
 
-*firebaselogging-pa.googleapis.com
+firebaselogging-pa.googleapis.com
 *windowsupdate.com
-*userlocation.googleapis.com
+userlocation.googleapis.com
 *appsflyersdk.com
 *mixpanel.com
 *popin.cc
 *s.w.org
 *coloros.com
-*telemetry.mozilla.org
-*register.xmpush.global.xiaomi.com
+telemetry.mozilla.org
+register.xmpush.global.xiaomi.com
 *clevertap-prod.com
 *oppomobile.com
 *sentry*
