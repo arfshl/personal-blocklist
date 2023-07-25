@@ -1,21 +1,9 @@
 # Denylist
 
 *firebaselogging-pa.googleapis.com
-*sentry.bmkgapp.my.id
 *windowsupdate.com
 *userlocation.googleapis.com
-*sentry.thevpncompany.net
-*sentry.io
-*allawntech.com
-*allawnos.com
-*heytapmobile.com
-*allawnofs.com
-*heytapdl.com
 *appsflyersdk.com
-*heytapmobi.com
-*heytapimage.com
-*heytapimg.com
-*heytapconf.com
 *mixpanel.com
 *popin.cc
 *s.w.org
@@ -24,25 +12,11 @@
 *register.xmpush.global.xiaomi.com
 *clevertap-prod.com
 *oppomobile.com
-*onlyfans.com
-*wx.qq.com
-*weixinbridge.com
-*weixin.qq.com
-*wechat.com
+*sentry*
+*allawn*.com
+*heytap*.com
 
 # TLD
-*.cn
 *.zip
 *.mov
 *.tk
-
-# Spamhaus most abused TLDs
-*.机构
-*.info
-*.monster
-*.tokyo
-*.asia
-*.review
-*.surf
-*.fit
-*.work
