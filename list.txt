@@ -1,5 +1,4 @@
 # Denylist
-
 firebaselogging-pa.googleapis.com
 *windowsupdate.com
 userlocation.googleapis.com
@@ -20,3 +19,6 @@ register.xmpush.global.xiaomi.com
 *.zip
 *.mov
 *.tk
+
+# Disable IDN Homographs
+*xn--*.*
