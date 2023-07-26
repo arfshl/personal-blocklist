@@ -1,4 +1,11 @@
-# Denylist
+[Adblock Plus 2.0]
+! Title: User Filter
+! Version: 0
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+
+! Blocked Domains
 firebaselogging-pa.googleapis.com
 *windowsupdate.com
 userlocation.googleapis.com
@@ -15,10 +22,10 @@ register.xmpush.global.xiaomi.com
 *allawn*.com
 *heytap*.com
 
-# TLD
+! Blocked TLD
 *.zip
 *.mov
 *.tk
 
-# Disable IDN Homographs
+! Disable IDN Homographs
 *xn--*.*
