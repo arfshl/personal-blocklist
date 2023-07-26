@@ -25,10 +25,10 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-#https://www.duckdns.org
+# https://www.duckdns.org
 *.duckdns.org
 
-#https://www.noip.com
+# https://www.noip.com
 *.3utilities.com
 *.access.ly
 *.blogsyte.com
