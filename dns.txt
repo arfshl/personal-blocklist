@@ -1,4 +1,4 @@
-7[Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Title: User Filter
 ! Version: 29-07-2023
 ! Homepage: https://github.com/arfshl/personal-blocklist
