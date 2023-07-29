@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+7[Adblock Plus 2.0]
 ! Title: User Filter
 ! Version: 29-07-2023
 ! Homepage: https://github.com/arfshl/personal-blocklist
@@ -30,3 +30,6 @@ register.xmpush.global.xiaomi.com
 
 ! Unblock OPPO Weather
 @@||i6f.weather.oppomobile.com^
+
+! Unblock OPPO Internet Feeds
+@@||iflow-sg.browser.heytapmobile.com^
