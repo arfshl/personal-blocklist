@@ -1,26 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: User Filter
-! Version: 0
+! Version: 29-07-2023
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
 
-! Blocked Domains
+! Google APIs
 firebaselogging-pa.googleapis.com
-*windowsupdate.com
 userlocation.googleapis.com
-*appsflyersdk.com
-*mixpanel.com
-*popin.cc
-*s.w.org
-*coloros.com
+
+! Mozilla Telemetry
 telemetry.mozilla.org
-register.xmpush.global.xiaomi.com
-*clevertap-prod.com
-*oppomobile.com
+
+! Sentry
 *sentry*
-*allawn*.com
-*heytap*.com
 
 ! Blocked TLD
 *.zip
@@ -29,3 +22,11 @@ register.xmpush.global.xiaomi.com
 
 ! Disable IDN Homographs
 *xn--*.*
+
+! OPPO Ads and Tracker
+*oppomobile.com
+mdp-appconf-*.heytapdl.com
+register.xmpush.global.xiaomi.com
+
+! Unblock OPPO Weather
+@@||i6f.weather.oppomobile.com^
