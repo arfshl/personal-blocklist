@@ -24,11 +24,10 @@ telemetry.mozilla.org
 *xn--*.*
 
 ! OPPO Ads and Tracker
-*oppomobile.com
+*push.oppomobile.com
+*ads.oppomobile.com
 mdp-appconf-*.heytapdl.com
 register.xmpush.global.xiaomi.com
 
 ! Fix Apps
-@@||i6f.weather.oppomobile.com^
 @@||iflow-sg.browser.heytapmobile.com^
-@@||id-store.oppomobile.com^
