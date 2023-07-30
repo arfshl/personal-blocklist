@@ -28,8 +28,7 @@ telemetry.mozilla.org
 mdp-appconf-*.heytapdl.com
 register.xmpush.global.xiaomi.com
 
-! Unblock OPPO Weather
+! Fix Apps
 @@||i6f.weather.oppomobile.com^
-
-! Unblock OPPO Internet Feeds
 @@||iflow-sg.browser.heytapmobile.com^
+@@||id-store.oppomobile.com^
