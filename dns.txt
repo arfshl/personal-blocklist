@@ -28,6 +28,7 @@ telemetry.mozilla.org
 *ads.*mobile.com
 mdp-appconf-*.heytapdl.com
 obus-*.*mobile.com
+dragate-*.heytapmobi.com
 register.xmpush.global.xiaomi.com
 
 ! Fix Apps
