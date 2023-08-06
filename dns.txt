@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+i[Adblock Plus 2.0]
 ! Title: User Filter
 ! Version: 01-08-2023
 ! Homepage: https://github.com/arfshl/personal-blocklist
@@ -33,3 +33,6 @@ register.xmpush.global.xiaomi.com
 
 ! Fix Apps
 @@||iflow-sg.browser.heytapmobile.com^
+
+! Windows Defender definition update
+@@||definitionupdates.microsoft.com^
