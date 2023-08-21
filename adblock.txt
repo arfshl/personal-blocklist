@@ -5,4 +5,4 @@
 ! Description: My User Filter
 ! Expires: 1 days
 fandom.com###age-gate
-##.hidemeproxy__slideout
+##.m-active.XPromoBlockingModalRpl
