@@ -6,3 +6,4 @@
 ! Expires: 1 days
 fandom.com###age-gate
 ##.m-active.XPromoBlockingModalRpl
+##.hidemeproxy__slideout
