@@ -36,3 +36,6 @@ register.xmpush.global.xiaomi.com
 
 ! Windows Defender definition update
 @@||definitionupdates.microsoft.com^
+
+! Unblock Reddit
+151.101.1.140 reddit.com
