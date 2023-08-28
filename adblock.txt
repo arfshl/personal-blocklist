@@ -4,6 +4,9 @@
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
+!
 fandom.com###age-gate
-##.m-active.XPromoBlockingModalRpl
-##.hidemeproxy__slideout
+reddit.com##.m-active.XPromoBlockingModalRpl
+hide.me##.hidemeproxy__slideout
+brainly.co.id##.sg-dialog__container--appearance-dialog.sg-dialog__container--open.sg-dialog__container--motion-default.sg-dialog__container
+brainly.co.id##.sg-dialog__overlay--open.sg-dialog__overlay--motion-default.sg-dialog__overlay--size-m.sg-dialog__overlay.js-dialog
