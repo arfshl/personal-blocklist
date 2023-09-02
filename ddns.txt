@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: NextDNS DDNS Suffixes
 ! Version: 5d28e0a1ac72e4251f03a79293664abeaab43dca
 ! Homepage: https://github.com/nextdns/ddns-domains
