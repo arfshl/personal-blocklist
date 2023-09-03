@@ -7,8 +7,10 @@
 
 ! Fandom age personalization (pop-up)
 fandom.com###age-gate
+
 ! Brainly answer survey (pop-up)
 brainly.co.id##.sg-dialog__container--appearance-dialog.sg-dialog__container--open.sg-dialog__container--motion-default.sg-dialog__container
 brainly.co.id##.sg-dialog__overlay--open.sg-dialog__overlay--motion-default.sg-dialog__overlay--size-m.sg-dialog__overlay.js-dialog
+
 ! Reddit app "Full Experience" (pop-up)
 reddit.com##.m-active.XPromoBlockingModalRpl
