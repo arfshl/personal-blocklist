@@ -39,3 +39,6 @@ register.xmpush.global.xiaomi.com
 
 ! Block Tor2web
 *.onion.*
+
+! AdGuard Email
+@@||email-link.adtidy.org^
