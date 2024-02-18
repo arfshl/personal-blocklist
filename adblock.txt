@@ -14,3 +14,6 @@ brainly.co.id##.sg-dialog__overlay--open.sg-dialog__overlay--motion-default.sg-d
 
 ! Reddit app "Full Experience" (pop-up)
 reddit.com##.m-active.XPromoBlockingModalRpl
+
+! Login with Google
+||accounts.google.com/gsi/iframe/select$subdocument
