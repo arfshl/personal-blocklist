@@ -6,7 +6,7 @@
 ! Expires: 1 days
 
 ! Fandom age personalization (pop-up)
-fandom.com##age-gate
+fandom.com###age-gate
 fandom.com##.notifications-box
 
 ! Login with Google
