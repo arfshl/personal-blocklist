@@ -9,8 +9,5 @@
 fandom.com##age-gate
 fandom.com##.notifications-box
 
-! Reddit app (pop-up)
-reddit.com##shreddit-experience-tree.theme-beta
-
 ! Login with Google
 ||accounts.google.com/gsi/iframe/select$subdocument
