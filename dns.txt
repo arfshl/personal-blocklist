@@ -1,6 +1,6 @@
 ! [Adblock Plus 2.0]
 ! Title: User Filter
-! Version: 08-12-2023
+! Version: 230524
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -42,3 +42,11 @@ register.xmpush.global.xiaomi.com
 
 ! AdGuard Email
 @@||email-link.adtidy.org^
+
+! Domain without Wildcard for NextDNS
+mdp-appconf-id.heytapdl.com
+httpdns.push.oppomobile.com
+dragate-sg.dc.heytapmobi.com
+stg-data-id.ads.heytapmobile.com
+cl-data-id.ads.heytapmobile.com
+sentry.io
