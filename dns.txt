@@ -15,11 +15,6 @@ telemetry.mozilla.org
 ! Sentry
 *sentry*
 
-! Blocked TLD
-*.zip
-*.mov
-*.tk
-
 ! Disable IDN Homographs
 *xn--*.*
 
