@@ -37,3 +37,6 @@ register.xmpush.global.xiaomi.com
 
 ! AdGuard Email
 @@||email-link.adtidy.org^
+
+! OnlyFans
+*onlyfans.com
