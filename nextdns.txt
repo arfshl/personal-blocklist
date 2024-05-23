@@ -1,0 +1,7 @@
+! OPPO Ads and Trackers
+mdp-appconf-id.heytapdl.com
+httpdns.push.oppomobile.com
+dragate-sg.dc.heytapmobi.com
+stg-data-id.ads.heytapmobile.com
+cl-data-id.ads.heytapmobile.com
+sentry.io
