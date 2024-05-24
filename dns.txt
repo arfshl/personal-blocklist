@@ -40,3 +40,6 @@ register.xmpush.global.xiaomi.com
 
 ! OnlyFans
 *onlyfans.com
+
+! Other Ads
+ads.baca.co.id
