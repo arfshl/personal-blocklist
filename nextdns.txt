@@ -21,3 +21,6 @@ adx-id.ads.heytapmobile.com
 
 ! OnlyFans
 onlyfans.com
+
+! Other Ads
+ads.baca.co.id
