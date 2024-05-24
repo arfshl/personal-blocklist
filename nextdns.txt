@@ -1,3 +1,5 @@
+! Domain for NextDNS Custom Blocklist 
+
 ! Sentry
 sentry.io
 
@@ -18,6 +20,8 @@ stg-data-id.ads.heytapmobi.com
 adx-id.ads.heytapmobi.com
 cl-data-id.ads.heytapmobi.com
 adx-id.ads.heytapmobile.com
+conn-service-gl-01.allawntech.com
+conn-service-gl-03.allawntech.com
 
 ! OnlyFans
 onlyfans.com
