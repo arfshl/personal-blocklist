@@ -17,3 +17,7 @@
 
 ! Terabox
 *terabox.com
+
+! Bigo Live
+bigo*.tv
+bigo*.sg
