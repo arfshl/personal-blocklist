@@ -1,6 +1,6 @@
 ! [Adblock Plus 2.0]
 ! Title: User Filter
-! Version: 240524-0546
+! Version: 280524
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -52,6 +52,3 @@ register.xmpush.global.xiaomi.com
 
 ! AdGuard Email
 @@||email-link.adtidy.org^
-
-! OnlyFans
-*onlyfans.com
