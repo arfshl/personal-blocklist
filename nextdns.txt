@@ -36,3 +36,9 @@ michat.sg
 
 ! Terabox
 terabox.com
+
+! Bigo Live
+bigolive.tv
+bigo.tv
+bigovideo.tv
+bigo.sg
