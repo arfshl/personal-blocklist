@@ -39,7 +39,7 @@ dragate-*.heytapmobi*.com
 register.xmpush.global.xiaomi.com
 ! conn-service-gl-01.allawntech.com
 ! conn-service-gl-03.allawntech.com
-||allawntech.com^
+*allawntech.com
 
 ! Fix Apps
 @@||iflow-sg.browser.heytapmobile.com^
