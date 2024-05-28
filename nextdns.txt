@@ -1,4 +1,4 @@
-! Domain for NextDNS Custom Blocklist 
+! Domain for NextDNS Denylist
 
 ! Sentry
 sentry.io
@@ -25,3 +25,14 @@ conn-service-gl-03.allawntech.com
 
 ! OnlyFans
 onlyfans.com
+
+! Tinder
+gotinder.com
+tindersparks.com
+tinder.com
+
+! MiChat
+michat.sg
+
+! Terabox
+terabox.com
