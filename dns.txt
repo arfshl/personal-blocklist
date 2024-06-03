@@ -56,5 +56,5 @@ register.xmpush.global.xiaomi.com
 ! Byteoversea
 log.byteoversea.net
 
-! rthost.win
-@@||rthost.win^
+! o.rthost.win
+@@||o.rthost.win^
