@@ -46,3 +46,4 @@ bigo.sg
 
 !! Whitelist
 iflow-sg.browser.heytapmobile.com
+definitionupdates.microsoft.com
