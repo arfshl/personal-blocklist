@@ -1,4 +1,5 @@
 ! Domain for NextDNS Denylist
+!! Denylist
 
 ! Sentry
 sentry.io
@@ -42,3 +43,6 @@ bigolive.tv
 bigo.tv
 bigovideo.tv
 bigo.sg
+
+!! Whitelist
+iflow-sg.browser.heytapmobile.com
