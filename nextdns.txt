@@ -1,4 +1,4 @@
-! Domain for NextDNS Denylist
+! Domain for NextDNS Denylist/Allowlist
 !! Denylist
 
 ! Sentry
