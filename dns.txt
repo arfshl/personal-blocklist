@@ -60,4 +60,4 @@ log.byteoversea.net
 @@||o.rthost.win^
 
 ! Windows Update Catalog
-@@||catalog.update.microsoft.com^
+@@||catalog*.update.microsoft.com^
