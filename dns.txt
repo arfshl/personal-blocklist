@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: User Filter
+! Title: User Filter (DNS)
 ! Version: 060624
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
