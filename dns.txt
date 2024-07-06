@@ -5,6 +5,8 @@
 ! Description: My User Filter
 ! Expires: 1 days
 
+!!! Blocked Domain
+
 ! Google APIs
 firebaselogging-pa.googleapis.com
 userlocation.googleapis.com
@@ -41,20 +43,24 @@ register.xmpush.global.xiaomi.com
 ! conn-service-gl-03.allawntech.com
 *allawntech.com
 
+! Block Tor2web
+*.onion.*
+
+! Byteoversea
+log.byteoversea.net
+
+
+!!! Important Whitelist
 ! Fix Apps
 @@||iflow-sg.browser.heytapmobile.com^
+
+!!! Not so important Whitelist.
 
 ! Windows Defender definition update
 @@||definitionupdates.microsoft.com^
 
-! Block Tor2web
-*.onion.*
-
 ! AdGuard Email
 @@||email-link.adtidy.org^
-
-! Byteoversea
-log.byteoversea.net
 
 ! o.rthost.win
 @@||o.rthost.win^
@@ -62,3 +68,4 @@ log.byteoversea.net
 ! Windows Update Catalog
 @@||catalog.update.microsoft.com^
 @@||catalog.s.download.windowsupdate.com^
+@@||any.run^
