@@ -50,11 +50,11 @@ register.xmpush.global.xiaomi.com
 log.byteoversea.net
 
 
-!!! Important Whitelist
+!!! Mobile Whitelist
 ! Fix Apps
 @@||iflow-sg.browser.heytapmobile.com^
 
-!!! Not so important Whitelist.
+!!! Personal Whitelist.
 
 ! Windows Defender definition update
 @@||definitionupdates.microsoft.com^
@@ -68,4 +68,12 @@ log.byteoversea.net
 ! Windows Update Catalog
 @@||catalog.update.microsoft.com^
 @@||catalog.s.download.windowsupdate.com^
+
+! OneDrive
+@@||skydrivesync.policies.live.net^
+
+! Microsoft Edge Extensions
+@@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
+
+! Any.run
 @@||any.run^
