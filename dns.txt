@@ -77,3 +77,6 @@ log.byteoversea.net
 
 ! Any.run
 @@||any.run^
+
+! MAS Activation
+@@||get.activated.win^
