@@ -78,5 +78,7 @@ log.byteoversea.net
 ! Any.run
 @@||any.run^
 
+! popbela.com
+@@||www.popbela.com^
 ! MAS Activation
 @@||get.activated.win^
