@@ -54,6 +54,12 @@ log.byteoversea.net
 ! Fix Apps
 @@||iflow-sg.browser.heytapmobile.com^
 
+
+!!! OISD Porn false Positives!
+@@||popbela.com^
+@@||popmama.com^
+
+
 !!! Personal Whitelist.
 
 ! Windows Defender definition update
@@ -74,12 +80,3 @@ log.byteoversea.net
 
 ! Microsoft Edge Extensions
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
-
-! Any.run
-@@||any.run^
-
-! popbela.com
-@@||www.popbela.com^
-
-! MAS Activation
-@@||get.activated.win^
