@@ -55,11 +55,6 @@ log.byteoversea.net
 @@||iflow-sg.browser.heytapmobile.com^
 
 
-!!! OISD Porn false Positives!
-@@||popbela.com^
-@@||popmama.com^
-
-
 !!! Personal Whitelist.
 
 ! Windows Defender definition update
