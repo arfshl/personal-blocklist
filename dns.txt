@@ -46,9 +46,6 @@ register.xmpush.global.xiaomi.com
 ! Block Tor2web
 *.onion.*
 
-! Byteoversea
-log.byteoversea.net
-
 
 !!! Mobile Whitelist
 ! Fix Apps
