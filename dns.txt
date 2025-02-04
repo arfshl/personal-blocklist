@@ -73,5 +73,5 @@ register.xmpush.global.xiaomi.com
 ! Microsoft Edge Extensions
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
 
-| Blackbox.ai
+! Blackbox.ai
 @@||onrender.com^
