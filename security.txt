@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+! Title: User Filter (Security)
+! Version: 010824
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+
+! Disable IDN Homographs
+*xn--*.*
+
+! Block Tor2web
+*.onion.*
+
+! Phishing BCA
+bca-*.*
+

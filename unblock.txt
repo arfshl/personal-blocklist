@@ -1,0 +1,36 @@
+[Adblock Plus 2.0]
+! Title: User Filter (Unblock)
+! Version: 010824
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+
+
+!!! Mobile Whitelist
+! Fix Apps
+@@||iflow-sg.browser.heytapmobile.com^
+
+
+!!! Personal Whitelist.
+
+! Windows Defender definition update
+@@||definitionupdates.microsoft.com^
+
+! AdGuard Email
+@@||email-link.adtidy.org^
+
+! o.rthost.win
+@@||o.rthost.win^
+
+! Windows Update Catalog
+@@||catalog.update.microsoft.com^
+@@||catalog.s.download.windowsupdate.com^
+
+! OneDrive
+@@||skydrivesync.policies.live.net^
+
+! Microsoft Edge Extensions
+@@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
+
+! Blackbox.ai
+@@||onrender.com^

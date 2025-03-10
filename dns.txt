@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: User Filter (DNS)
+! Title: User Filter (Ads+Trackers)
 ! Version: 010824
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
@@ -16,9 +16,6 @@ telemetry.mozilla.org
 
 ! Sentry
 *sentry*
-
-! Disable IDN Homographs
-*xn--*.*
 
 ! OPPO Ads and Tracker
 ! httpdns.push.oppomobile.com
@@ -42,36 +39,3 @@ register.xmpush.global.xiaomi.com
 ! conn-service-gl-01.allawntech.com
 ! conn-service-gl-03.allawntech.com
 *allawntech.com
-
-! Block Tor2web
-*.onion.*
-
-
-!!! Mobile Whitelist
-! Fix Apps
-@@||iflow-sg.browser.heytapmobile.com^
-
-
-!!! Personal Whitelist.
-
-! Windows Defender definition update
-@@||definitionupdates.microsoft.com^
-
-! AdGuard Email
-@@||email-link.adtidy.org^
-
-! o.rthost.win
-@@||o.rthost.win^
-
-! Windows Update Catalog
-@@||catalog.update.microsoft.com^
-@@||catalog.s.download.windowsupdate.com^
-
-! OneDrive
-@@||skydrivesync.policies.live.net^
-
-! Microsoft Edge Extensions
-@@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
-
-! Blackbox.ai
-@@||onrender.com^
