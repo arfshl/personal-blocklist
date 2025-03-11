@@ -29,4 +29,4 @@ jobs:
         pip install python-abp
     - name: build-personal
       run: |
-        flrender personal-blocklist/internal-usage/b.template personal-blocklist/internal-usage/b.txt
+        flrender /home/runner/work/personal-blocklist/internal-usage/b.template /home/runner/work/personal-blocklist/internal-usage/b.txt
