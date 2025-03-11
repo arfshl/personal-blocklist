@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202503111007
+! Version: 202503111008
 ! Title: User Filter (Internal Usage)
-! Last Modified: 11 Mar 2025 10:07 UTC
+! Last Modified: 11 Mar 2025 10:08 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -981,7 +981,6 @@ register.xmpush.global.xiaomi.com
 
 ! Phishing BCA
 bca-*.*
-
 
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/services.txt ***
 
