@@ -35,4 +35,4 @@ jobs:
         git commit -m "Auto-Build"
         git push
       env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
