@@ -13,4 +13,3 @@
 
 ! Phishing BCA
 bca-*.*
-
