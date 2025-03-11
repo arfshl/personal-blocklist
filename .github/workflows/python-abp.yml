@@ -27,6 +27,13 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install python-abp
-    - name: build-personal
+    - name: Build
       run: |
-        flrender /home/runner/work/personal-blocklist/internal-usage/b.template /home/runner/work/personal-blocklist/internal-usage/b.txt
+        flrender personal-blocklist/internal-usage/b.template personal-blocklist/internal-usage/b.txt
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add .
+        git commit -m "Auto-Build"
+        git push
