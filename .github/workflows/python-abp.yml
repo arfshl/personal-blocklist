@@ -29,7 +29,7 @@ jobs:
         pip install python-abp
     - name: Build
       run: |
-        flrender personal-blocklist/internal-usage/b.template personal-blocklist/internal-usage/b.txt
+        flrender $GITHUB_WORKSPACE/internal-usage/b.template $GITHUB_WORKSPACE/internal-usage/b.txt
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions"
