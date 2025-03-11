@@ -1,0 +1,93 @@
+! [Adblock Plus 2.0]
+! Title: User Filter (Internal Usage)
+! Version: 100325
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+
+!!! Modified for Personal Use !!!
+
+
+! [Adblock Plus 2.0]
+! Title: User Filter (Ads+Trackers)
+! Version: 100325
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+
+!!! Blocked Domain
+
+! Google APIs
+firebaselogging-pa.googleapis.com
+userlocation.googleapis.com
+
+! Mozilla Telemetry
+telemetry.mozilla.org
+
+! Sentry
+*sentry*
+
+! OPPO Ads and Tracker
+! httpdns.push.oppomobile.com
+! stg-data-id.ads.heytapmobile.com
+! cl-data-id.ads.heytapmobile.com
+! stg-data-id.ads.heytapmobi.com
+! adx-id.ads.heytapmobi.com
+! cl-data-id.ads.heytapmobi.com
+! adx-id.ads.heytapmobile.com
+*push.*mobi*.com
+*ads.*mobi*.com
+! mdp-appconf-id.heytapdl.com
+! mdp-appconf-sg.heytapdl.com
+mdp-appconf-*.heytapdl.com
+! obus-sg.dc.heytapmobile.com
+! obus-dc2-sg.heytapmobile.com
+obus-*.*mobi*.com
+! dragate-sg.dc.heytapmobi.com
+dragate-*.heytapmobi*.com
+register.xmpush.global.xiaomi.com
+! conn-service-gl-01.allawntech.com
+! conn-service-gl-03.allawntech.com
+*allawntech.com
+
+! [Adblock Plus 2.0]
+! Title: User Filter (Security)
+! Version: 100325
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+
+! Disable IDN Homographs
+*xn--*.*
+
+! Block Tor2web
+*.onion.*
+
+! Phishing BCA
+bca-*.*
+
+! [Adblock Plus 2.0]
+! Title: User Filter (Services)
+! Version: 280524
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+! Sources: https://github.com/AdguardTeam/HostlistsRegistry/tree/main/services
+
+! MiChat
+*michat.sg
+
+! Terabox
+*terabox.com
+
+! [Adblock Plus 2.0]
+! Title: User Filter (Unblock)
+! Version: 010824
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+
+
+!!! Mobile Whitelist
+! Fix Apps
+@@||iflow-sg.browser.heytapmobile.com^
