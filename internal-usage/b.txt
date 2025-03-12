@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202503120051
+! Version: 202503120306
 ! Title: User Filter (Internal Usage)
-! Last Modified: 12 Mar 2025 00:51 UTC
+! Last Modified: 12 Mar 2025 03:06 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -20,6 +20,10 @@ mwstats.info##dab-modal
 
 ! quora.com - Forced Login
 www.quora.com##.qu-p--medium.qu-zIndex--blocking_wall.qu-overflow--hidden.qu-justifyContent--center.qu-alignItems--flex-end.q-flex
+
+! Mar 12, 2025 https://www.kompas.id Sign-up pop-up
+www.kompas.id##.block.text-grey-60.w-full
+
 
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/ddns.txt ***
 
