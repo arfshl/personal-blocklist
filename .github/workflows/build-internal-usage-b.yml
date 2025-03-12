@@ -3,14 +3,24 @@ name: build-internal-usage-b
 on:
   workflow_dispatch:
   push:
-    branches: [ "main" ]
+    branches:
+      - 'main'
+    paths:
+      - 'my-filter/**'
   pull_request:
-    branches: [ "main" ]
+    branches: 
+      - 'main'
+    paths:
+      - 'my-filter/**'
+    types:
+      - closed
 
 permissions:
   contents: write
 
 jobs:
+ if_merged:
+    if: github.event.pull_request.merged == true
   build:
 
     runs-on: ubuntu-latest
