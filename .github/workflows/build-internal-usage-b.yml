@@ -7,20 +7,11 @@ on:
       - 'main'
     paths:
       - 'my-filter/**'
-  pull_request:
-    branches: 
-      - 'main'
-    paths:
-      - 'my-filter/**'
-    types:
-      - closed
 
 permissions:
   contents: write
 
 jobs:
-  if_merged:
-    if: github.event.pull_request.merged == true
   
     runs-on: ubuntu-latest
 
