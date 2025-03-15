@@ -16,3 +16,5 @@
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/services.txt%
 
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt%
+
+%include https://github.com/arfshl/personal-blocklist/raw/main/my-filter/bebasidhosts.txt%
