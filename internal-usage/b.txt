@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202503180905
+! Version: 202503180907
 ! Title: User Filter (Internal Usage)
-! Last Modified: 18 Mar 2025 09:05 UTC
+! Last Modified: 18 Mar 2025 09:07 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
