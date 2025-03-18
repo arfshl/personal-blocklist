@@ -34,3 +34,12 @@
 
 ! Blackbox.ai
 @@||onrender.com^
+
+! Massgrave
+@@||activated.win^
+
+! Spyware Watchdog
+@@||spyware.neocities.org^
+
+! Blogspot
+@@||blogspot.com^
