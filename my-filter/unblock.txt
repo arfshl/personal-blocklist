@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: User Filter (Unblock)
-! Version: 010824
+! Version: 180525
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
