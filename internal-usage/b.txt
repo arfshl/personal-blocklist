@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202503151631
+! Version: 202503180905
 ! Title: User Filter (Internal Usage)
-! Last Modified: 15 Mar 2025 16:31 UTC
+! Last Modified: 18 Mar 2025 09:05 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -1035,3 +1035,12 @@ bigo*.sg
 
 ! Blackbox.ai
 @@||onrender.com^
+
+! Massgrave
+@@||activated.win^
+
+! Spyware Watchdog
+@@||spyware.neocities.org^
+
+! Blogspot
+@@||blogspot.com^
