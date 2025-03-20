@@ -17,7 +17,3 @@ mwstats.info##dab-modal
 
 ! quora.com - Forced Login
 www.quora.com##.qu-p--medium.qu-zIndex--blocking_wall.qu-overflow--hidden.qu-justifyContent--center.qu-alignItems--flex-end.q-flex
-
-! Mar 12, 2025 https://www.kompas.id Sign-up pop-up
-www.kompas.id##.block.text-grey-60.w-full
-

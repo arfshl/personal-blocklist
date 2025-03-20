@@ -91,3 +91,6 @@ bca-*.*
 !!! Mobile Whitelist
 ! Fix Apps
 @@||iflow-sg.browser.heytapmobile.com^
+
+! Blogspot
+@@||blogspot.com^
