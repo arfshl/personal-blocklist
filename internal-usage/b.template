@@ -13,6 +13,8 @@
 
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/security.txt%
 
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/tor2web.txt%
+
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/services.txt%
 
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt%
