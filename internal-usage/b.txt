@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202503210535
+! Version: 202503210536
 ! Title: User Filter (Internal Usage)
-! Last Modified: 21 Mar 2025 05:35 UTC
+! Last Modified: 21 Mar 2025 05:36 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -984,6 +984,18 @@ register.xmpush.global.xiaomi.com
 
 ! Phishing BCA
 bca-*.*
+
+! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/tor2web.txt ***
+
+! Tor2Web main sites
+||tor2web.org^
+
+! Tor2Web proxy
+*.onion.*
+*.onion.to
+*.onion.city
+*.onion.direct
+*.onion.cab
 
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/services.txt ***
 
