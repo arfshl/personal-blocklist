@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202503210526
+! Version: 202503210535
 ! Title: User Filter (Internal Usage)
-! Last Modified: 21 Mar 2025 05:26 UTC
+! Last Modified: 21 Mar 2025 05:35 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -981,9 +981,6 @@ register.xmpush.global.xiaomi.com
 
 ! Disable IDN Homographs
 *xn--*.*
-
-! Block Tor2web
-*.onion.*
 
 ! Phishing BCA
 bca-*.*
