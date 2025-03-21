@@ -1,6 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Security Filter (Tor2Web)
-! Version: 010824
+! Version: 21032025
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: Block Tor2Web service
 ! Expires: 1 days
+
+! Tor2Web main sites
+||tor2web.org^
+
+! Tor2Web proxy
+*.onion.*
+*.onion.to
+*.onion.city
+*.onion.direct
+*.onion.cab
