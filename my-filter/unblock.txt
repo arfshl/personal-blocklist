@@ -38,8 +38,9 @@
 ! Massgrave
 @@||activated.win^
 
-! Spyware Watchdog
+! Neocities
 @@||spyware.neocities.org^
+@@||oldgoogle.neocities.org^
 
 ! Blogspot
 @@||blogspot.com^
