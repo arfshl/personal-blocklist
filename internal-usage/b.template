@@ -7,8 +7,6 @@
 
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/adblock.txt%
 
-%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/ddns.txt%
-
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/dns.txt%
 
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/security.txt%
