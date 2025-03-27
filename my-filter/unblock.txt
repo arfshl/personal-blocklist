@@ -6,21 +6,18 @@
 ! Expires: 1 days
 
 
-!!! Mobile Whitelist
-! Fix Apps
+!!! Mobile Whitelists
+
+! Fix OPPO Apps
 @@||iflow-sg.browser.heytapmobile.com^
 
 
-!!! Personal Whitelist.
+!!! Personal Whitelists
+
+!! WindowsSpyBlocker Update whitelists
 
 ! Windows Defender definition update
 @@||definitionupdates.microsoft.com^
-
-! AdGuard Email
-@@||email-link.adtidy.org^
-
-! o.rthost.win
-@@||o.rthost.win^
 
 ! Windows Update Catalog
 @@||catalog.update.microsoft.com^
@@ -31,16 +28,3 @@
 
 ! Microsoft Edge Extensions
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
-
-! Blackbox.ai
-@@||onrender.com^
-
-! Massgrave
-@@||activated.win^
-
-! Neocities
-@@||spyware.neocities.org^
-@@||oldgoogle.neocities.org^
-
-! Blogspot
-@@||blogspot.com^
