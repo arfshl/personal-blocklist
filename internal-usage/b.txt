@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202503311528
+! Version: 202503311537
 ! Title: personal-blocklist (Internal Usage)
-! Last Modified: 31 Mar 2025 15:28 UTC
+! Last Modified: 31 Mar 2025 15:37 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -10,6 +10,10 @@
 
 ! Google Login Popup
 ||accounts.google.com/gsi/iframe/select$subdocument
+
+! Fandom Age Personalization
+fandom.com###age-gate
+fandom.com
 
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/dns.txt ***
 
