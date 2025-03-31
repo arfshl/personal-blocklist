@@ -10,4 +10,4 @@
 
 ! Fandom Age Personalization
 fandom.com###age-gate
-fandom.com
+fandom.com##.notifications-box
