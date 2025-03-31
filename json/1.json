@@ -1,0 +1,499 @@
+{
+  "OcspCheckEnabled" : true,
+  "WatchdogEnabled" : true,
+  "TcpKeepAliveIdleTimeSeconds" : 0,
+  "LogLevel" : "Default",
+  "HighContrastTheme" : false,
+  "LanguageCode" : "en",
+  "TechnicalAndInteractionData" : false,
+  "VpnRevocationRecoveryRescheduleDelay" : 5000,
+  "FiltersLocalizations" : {
+    "256" : {
+      "ar" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "قائمة لحظر المواقع غير الموثوقة."
+      },
+      "be" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Спіс для блакіроўкі ненадзейных сайтаў."
+      },
+      "cs" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Seznam pro blokování nedůvěryhodných stránek."
+      },
+      "da" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Liste til blokering af utroværdige websteder."
+      },
+      "de" : {
+        "name" : "DurableNapkins Sperrliste für Betrugsversuche",
+        "description" : "Liste zum Sperren nicht vertrauenswürdiger Websites."
+      },
+      "en" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "List for blocking untrustworthy websites."
+      },
+      "es" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Lista para bloquear sitios web no confiables."
+      },
+      "es-ES" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Lista para bloquear sitios web no confiables."
+      },
+      "fi" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Lista epäluotettavien sivustojen estoon."
+      },
+      "fr" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Liste pour bloquer les sites web non fiables."
+      },
+      "he" : {
+        "name" : "רשימת חסימה של הונאה מאת DurableNapkin",
+        "description" : "רשימת חסימה כדי להגן על משתמשים מפני אתרים בלתי מהימנים."
+      },
+      "hr" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Popis blokova za zaštitu korisnika od nepouzdanih web-mjesta."
+      },
+      "hu" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "A megbízhatatlan webhelyek blokkolásának listája."
+      },
+      "id" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Daftar untuk memblokir situs web yang tidak dapat dipercaya."
+      },
+      "it" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Elenco per bloccare i siti web non affidabili."
+      },
+      "ja" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "怪しい・信頼できないウェブサイトをブロックするためのリストです。"
+      },
+      "ko" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "신뢰할 수 없는 웹사이트를 차단하는 목록입니다."
+      },
+      "mk" : {
+        "name" : "Список за блокирање измами од DurableNapkin",
+        "description" : "Список за блокирање недоверливи веб-страници."
+      },
+      "nl" : {
+        "name" : "Scam blokkeerlijst van DurableNapkin",
+        "description" : "Lijst voor het blokkeren van onbetrouwbare websites."
+      },
+      "pl" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Lista blokad chroniąca użytkowników przed niezaufanymi witrynami."
+      },
+      "pt" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Lista para bloquear os utilizadores contra sítios não confiáveis."
+      },
+      "pt-BR" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Lista para bloquear sites não confiáveis."
+      },
+      "pt-PT" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Lista para bloquear os utilizadores contra sítios não confiáveis."
+      },
+      "ro" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Listă pentru blocarea site-urilor web nesigure."
+      },
+      "ru" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Список для блокировки ненадёжных сайтов."
+      },
+      "sk" : {
+        "name" : "Blokovací zoznam podvodov od DurableNapkin-a",
+        "description" : "Zoznam na blokovanie nedôveryhodných webových lokalít."
+      },
+      "sl" : {
+        "name" : "Seznam onemogočenih prevar DurableNapkina",
+        "description" : "Seznam za zaviranje nezanesljivih spletnih strani."
+      },
+      "sr" : {
+        "name" : "Blokiranje prevara od DurableNapkin",
+        "description" : "Lista za blokiranje nepouzdanih Web lokacija."
+      },
+      "tr" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Güvenilmez siteleri engellemek için liste."
+      },
+      "uk" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Фільтр для блокування ненадійних сайтів."
+      },
+      "vi" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "Một danh sách chặn để bảo vệ người dùng khỏi các trang không đáng tin cậy."
+      },
+      "zh" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "拦截不可信网站的列表。"
+      },
+      "zh-TW" : {
+        "name" : "Scam Blocklist by DurableNapkin",
+        "description" : "封鎖不可信網站的清單。"
+      }
+    },
+    "1" : {
+      "ar" : {
+        "name" : "فلترالروسية AdGuard",
+        "description" : "فلتر يتيح منع الإعلانات على مواقع الويب باللغة الروسية"
+      },
+      "be" : {
+        "name" : "Рускі фільтр",
+        "description" : "Рускі фільтр AdGuard. Фільтр, што дазваляе прыбраць рэкламу з сайтаў на рускай мове."
+      },
+      "bg" : {
+        "name" : "Руски филтър",
+        "description" : "Филтър, който дава възможност за блокиране на реклами на уеб сайтове на руски език."
+      },
+      "ca" : {
+        "name" : "Filtre Rus",
+        "description" : "Filtre que permet bloquejar els anunci de publicitat en Rus."
+      },
+      "cs" : {
+        "name" : "Ruský filtr AdGuard",
+        "description" : "Filtr, který umožňuje blokování reklam na webových stránkách v ruském jazyce."
+      },
+      "da" : {
+        "name" : "AdGuard Russisk filter",
+        "description" : "Filter, der aktiverer adblocking på russisksprogede websteder."
+      },
+      "de" : {
+        "name" : "AdGuard Russischer Filter",
+        "description" : "Filter, der Anzeigen auf russischen Webseiten sperrt."
+      },
+      "el" : {
+        "name" : "AdGuard Ρωσικό φίλτρο",
+        "description" : "Φίλτρο που επιτρέπει τον αποκλεισμό διαφημίσεων σε ιστότοπους στη ρωσική γλώσσα."
+      },
+      "en" : {
+        "name" : "AdGuard Russian filter",
+        "description" : "Filter that enables ad blocking on websites in the Russian language."
+      },
+      "es" : {
+        "name" : "Filtro para ruso",
+        "description" : "Filtro que permite el bloqueo de anuncios en sitios web en idioma ruso."
+      },
+      "es-ES" : {
+        "name" : "Filtro para ruso",
+        "description" : "Filtro que permite el bloqueo de anuncios en sitios web en idioma ruso."
+      },
+      "fa" : {
+        "name" : "فیلتر روسی AdGuard",
+        "description" : "این لیست فیلترها،مخصوص حذف تبلیغات وبسایت های روسی زبان است."
+      },
+      "fi" : {
+        "name" : "AdGuardin venäjänkielen suodatin",
+        "description" : "Suodatin, joka mahdollistaa mainoseston erityisesti venäjänkielisillä sivustoilla."
+      },
+      "fr" : {
+        "name" : "Filtre russe AdGuard",
+        "description" : "Filtre permettant le blocage des publicités sur les sites web en Russe."
+      },
+      "he" : {
+        "name" : "מסנן רוסי של AdGuard",
+        "description" : "מסנן שמאפשר חסימת פרסומות באתרים בשפה הרוסית"
+      },
+      "hr" : {
+        "name" : "AdGuard Ruski filtar",
+        "description" : "Filtar za blokiranje oglasa na ruskom jeziku."
+      },
+      "hu" : {
+        "name" : "AdGuard Orosz szűrő",
+        "description" : "Szűrő, amely lehetővé teszi a hirdetések blokkolását az orosz nyelvű webhelyeken."
+      },
+      "id" : {
+        "name" : "Penyaring AdGuard Rusia",
+        "description" : "Penyaring yang memungkinkan pemblokiran iklan di situs web dalam bahasa Rusia."
+      },
+      "it" : {
+        "name" : "Filtro AdGuard russo",
+        "description" : "Filtro che attiva il blocca-annunci sui siti web in lingua russa."
+      },
+      "ja" : {
+        "name" : "AdGuard ロシア語フィルタ",
+        "description" : "ロシア語のWebサイトで広告ブロックを有効にするフィルタです。"
+      },
+      "ko" : {
+        "name" : "AdGuard 러시아 필터",
+        "description" : "러시아 사이트의 광고를 차단하는 필터"
+      },
+      "mk" : {
+        "name" : "Руски филтер",
+        "description" : "Филтер што овозможува блокирање реклами на веб-локации на руски јазик."
+      },
+      "nl" : {
+        "name" : "Russisch filter",
+        "description" : "AdGuard Russisch filte. Filter dat het blokkeren van advertenties op websites in de Russische taal mogelijk maakt."
+      },
+      "no" : {
+        "name" : "AdGuards russiske filter",
+        "description" : "Filtrer som gjør det mulig å blokkere annonser på russiske nettsider."
+      },
+      "pl" : {
+        "name" : "Rosyjski filtr AdGuard",
+        "description" : "Filtr, który umożliwia blokowanie reklam na rosyjskich stronach internetowych."
+      },
+      "pt" : {
+        "name" : "Filtro Russo do AdGuard",
+        "description" : "Filtro que permite o bloqueio de anúncios em sítios no idioma russo."
+      },
+      "pt-BR" : {
+        "name" : "Filtro Russo do AdGuard",
+        "description" : "Filtro que permite o bloqueio de anúncios em sites com o conteúdo em Russo."
+      },
+      "pt-PT" : {
+        "name" : "Filtro Russo do AdGuard",
+        "description" : "Filtro que permite o bloqueio de anúncios em sítios no idioma russo."
+      },
+      "ro" : {
+        "name" : "Filtru rus AdGuard",
+        "description" : "Filtru care permite blocarea reclamelor pe site-uri web în rusă."
+      },
+      "ru" : {
+        "name" : "Русский фильтр",
+        "description" : "Русский фильтр AdGuard. Фильтр, позволяющий убрать рекламу с сайтов на русском языке."
+      },
+      "sk" : {
+        "name" : "AdGuard ruský filter",
+        "description" : "Filter, ktorý umožňuje blokovať reklamy na stránkach v ruštine."
+      },
+      "sl" : {
+        "name" : "AdGuard Ruski filter",
+        "description" : "Filter, ki omogoča onemogočanje oglasov na spletnih straneh v ruščini."
+      },
+      "sr" : {
+        "name" : "AdGuard Ruski filter",
+        "description" : "Filter koji blokira reklame na sajtovima na ruskom jeziku."
+      },
+      "sv" : {
+        "name" : "AdGuards ryskspråksfilter",
+        "description" : "Filter som tillämpar reklamblockering på ryskspråkiga webbplatser."
+      },
+      "tr" : {
+        "name" : "AdGuard Rusça filtresi",
+        "description" : "Özellikle Rusça dilindeki sitelerde reklamları engelleyen filtre."
+      },
+      "uk" : {
+        "name" : "Російський фільтр AdGuard",
+        "description" : "Фільтр, призначений для блокування реклами на вебсайтах російською мовою."
+      },
+      "vi" : {
+        "name" : "Bộ lọc tiếng Nga",
+        "description" : "Bộ lọc AdGuard tiếng Nga. Bộ lọc kích hoạt chặn quảng cáo trên các website tiếng Nga."
+      },
+      "zh" : {
+        "name" : "AdGuard 俄语过滤器",
+        "description" : "此过滤器可以在俄语网站上启用广告拦截功能。"
+      },
+      "zh-TW" : {
+        "name" : "AdGuard 俄文過濾器",
+        "description" : "啟用於俄語網站上的廣告封鎖之過濾器。"
+      }
+    },
+    "257" : {
+      "ar" : {
+        "name" : "uBlock Origin - مخاطر البرامج الضارة",
+        "description" : "تصفية المواقع الخطرة، وتحذير المستخدمين من التهديدات المحتملة."
+      },
+      "be" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Фільтр для небяспечных сайтаў, які папярэджае карыстальнікаў аб магчымых загадах."
+      },
+      "cs" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtrování pro riskantní stránky, varující uživatele před potenciálními hrozbami."
+      },
+      "da" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filter til risikable websteder, advarer bruger om potentielle trusler."
+      },
+      "de" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filter für gefährliche Websites, der den Nutzer vor potenziellen Bedrohungen warnt."
+      },
+      "en" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filter for risky sites, warning users of potential threats."
+      },
+      "es" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtra sitios riesgosos y advierte a los usuarios sobre posibles amenazas."
+      },
+      "es-ES" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtra sitios riesgosos y advierte a los usuarios sobre posibles amenazas."
+      },
+      "fi" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Suodattaa riskialttiita sivustoja ja varoittaa käyttäjiä mahdollisista uhkista."
+      },
+      "fr" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtre pour les sites à risque, avertissant les utilisateurs des menaces potentielles."
+      },
+      "he" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "סנן אתרים מסוכנים, והזהיר משתמשים מפני איומים פוטנציאליים."
+      },
+      "hr" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtar za rizična web-mjesta, upozoravajući korisnike na potencijalne prijetnje."
+      },
+      "hu" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Rizikós webhelyek szűrése, figyelmeztetés a felhasználók számára a lehetséges veszélyekről."
+      },
+      "id" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filter untuk situs berisiko, peringatkan pengguna tentang potensi ancaman."
+      },
+      "it" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtro per siti rischiosi, avvisando gli utenti di potenziali minacce."
+      },
+      "ja" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "危険なサイトのためのフィルタ。潜在的な脅威についてユーザーに警告します。"
+      },
+      "ko" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "위험한 사이트를 필터링하며, 사용자에게 잠재적인 위협을 경고합니다."
+      },
+      "mk" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Филтер за ризични страници, предупредувајќи ги корисниците за потенцијалните претпазливости."
+      },
+      "nl" : {
+        "name" : "uBlock Origin – Badwarerisico's",
+        "description" : "Filter op risicovolle sites en waarschuw gebruikers voor mogelijke bedreigingen."
+      },
+      "pl" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtruj ryzykowne witryny, ostrzegając użytkowników o potencjalnych zagrożeniach."
+      },
+      "pt" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtro para sítios de risco, avisando os utilizadores de potenciais ameaças."
+      },
+      "pt-BR" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtro para sites arriscados, alertando os usuários sobre possíveis ameaças."
+      },
+      "pt-PT" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtro para sítios de risco, avisando os utilizadores de potenciais ameaças."
+      },
+      "ro" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filtrarea pentru site-urile periculoase, avertizând utilizatorii cu privire la posibilele amenințări."
+      },
+      "ru" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Фильтр опасных сайтов, который предупреждает пользователей о потенциальных угрозах."
+      },
+      "sk" : {
+        "name" : "uBlock Origin - riziká spojené so škodlivým softvérom",
+        "description" : "Filtrácia rizikových lokalít a upozorňovanie používateľov na potenciálne hrozby."
+      },
+      "sl" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filter za tvegana spletna mesta, uporabnike opozarja na morebitne grožnje."
+      },
+      "sr" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Filter za rizične sajtove, upozoravajući korisnike na potencijalne pretnje."
+      },
+      "tr" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Riskli siteleri filtreleyerek kullanıcıları potansiyel tehditlere karşı uyarır."
+      },
+      "uk" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Фільтр для ризикованих сайтів, що попереджає користувачів про потенційні загрози."
+      },
+      "vi" : {
+        "name" : "uBlock Origin – Badware risks",
+        "description" : "Lọc các trang web nguy hiểm, cảnh báo người dùng về các mối đe dọa tiềm ẩn."
+      },
+      "zh" : {
+        "name" : "uBlock Origin —— 恶意软件风险",
+        "description" : "过滤风险网站，警告用户潜在的威胁。"
+      },
+      "zh-TW" : {
+        "name" : "uBlock Origin —— 惡意軟體風險",
+        "description" : "過濾風險網站，警告使用者潛在的威脅。"
+      }
+    },
+    "2" : {
+      "ar" : {
+        "name" : "فلتر اساسيAdGuard",
+        "description" : "قائمة سهلة + مرشح قاعدة ادجوارد. هذا الفلتر ضروري لحظر الإعلانات عالي الجودة"
+      },
+      "be" : {
+        "name" : "Базавы фільтр AdGuard",
+        "description" : "EasyList + Базавы фільтр AdGuard. Фільтр, што дазваляе прыбраць рэкламу з сайтаў на англійскай мове."
+      },
+      "bg" : {
+        "name" : "Английски филтър",
+        "description" : "Филтър базиран на EasyList, който дава възможност за блокиране на реклами на уеб сайтове с английско съдържание."
+      },
+      "ca" : {
+        "name" : "Filtre Anglès",
+        "description" : "Filtre basat en EasyList. Filtre que permet eliminar la publicitat de les pàgines web amb contingut en Anglès."
+      },
+      "cs" : {
+        "name" : "Základní filtr AdGuard",
+        "description" : "Základní filtr EasyList + AdGuard. Tento filtr je nezbytný pro kvalitní blokování reklam."
+      },
+      "da" : {
+        "name" : "AdGuard Basisfilter",
+        "description" : "EasyList + AdGuard Basisfilter. Dette filter kræves for kvalitets-adblocking."
+      },
+      "de" : {
+        "name" : "AdGuard Basisfilter",
+        "description" : "EasyList + AdGuard Basisfilter. Dieser Filter ist für die Verbesserung zum Sperren von Werbung erforderlich."
+      },
+      "el" : {
+        "name" : "AdGuard Βασικό φίλτρο",
+        "description" : "EasyList + AdGuard Βασικό φίλτρο. Αυτό το φίλτρο είναι απαραίτητο για ποιοτικό αποκλεισμό διαφημίσεων."
+      },
+      "en" : {
+        "name" : "AdGuard Base filter",
+        "description" : "EasyList + AdGuard Base filter. This filter is necessary for quality ad blocking."
+      },
+      "es" : {
+        "name" : "Filtro base",
+        "description" : "EasyList + Filtro base. Este filtro es necesario para el bloqueo de anuncios de calidad."
+      },
+      "es-ES" : {
+        "name" : "Filtro base",
+        "description" : "EasyList + Filtro base. Este filtro es necesario para el bloqueo de anuncios de calidad."
+      },
+      "fa" : {
+        "name" : "فیلتر پایه AdGuard",
+        "description" : "ایزی لیست انگلیسی + فیلتر اَدگارد انگلیسی. این لیست فیلترها،مخصوص حذف تبلیغات وبسایت های انگلیسی زبان است."
+      },
+      "fi" : {
+        "name" : "AdGuardin vakiosuodatin",
+        "description" : "EasyList + AdGuardin vakiosuodatin. Tarpeellinen suodatin laadukasta mainosestoa varten."
+      },
+      "fr" : {
+        "name" : "Filtre de base AdGuard",
+        "description" : "Basé sur filtre EasyList et filtre Basique AdGuard. Filtre achevant un haut niveau de blocage de publicités"
+      },
+      "he" : {
+        "name" : "מסנן בסיס של AdGuard",
+        "description" : "EasyList + מסנן בסיס של AdGuard. מסנן זה הכרחי עבור חסימת פרסומות איכותית"
+      },
+      "hr" : {
+        "name" : "AdGuard Osnovni fil
