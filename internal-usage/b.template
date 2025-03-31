@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: User Filter (Internal Usage)
+! Title: personal-blocklist (Internal Usage)
 ! Last Modified: %timestamp%
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
@@ -16,3 +16,5 @@
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/services.txt%
 
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/antijudol.txt%
