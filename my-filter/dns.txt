@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: User Filter (Ads+Trackers)
+! Title: personal-blocklist (Ads+Trackers)
 ! Version: 010824
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
@@ -16,6 +16,7 @@ telemetry.mozilla.org
 
 ! Sentry
 *sentry*
+||sentry.io^
 
 ! OPPO Ads and Tracker
 ! httpdns.push.oppomobile.com
