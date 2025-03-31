@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202503311142
+! Version: 202503311144
 ! Title: User Filter (Internal Usage)
-! Last Modified: 31 Mar 2025 11:42 UTC
+! Last Modified: 31 Mar 2025 11:44 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -83,15 +83,6 @@ bca-*.*
 ! Bigo Live
 bigo*.tv
 bigo*.sg
-
-! Blokir Judi Online !
-*toto*
-*judi*
-*togel*
-*poker*
-*taruhan*
-*bet*
-*hoki*
 
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt ***
 
