@@ -1,14 +1,13 @@
 {
-  "timeStamp": 1743350907879,
+  "timeStamp": 1743422688046,
   "version": "1.63.2",
   "userSettings": {
     "advancedUserEnabled": true,
-    "externalLists": "https://github.com/arfshl/personal-blocklist/raw/main/internal-usage/b.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt\nhttps://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt\nhttps://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-ublock.txt\nhttps://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt",
+    "externalLists": "https://github.com/arfshl/personal-blocklist/raw/main/internal-usage/b.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt\nhttps://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-ublock.txt\nhttps://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt",
     "firewallPaneMinimized": false,
     "importedLists": [
       "https://github.com/arfshl/personal-blocklist/raw/main/internal-usage/b.txt",
       "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt",
-      "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
       "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-ublock.txt",
       "https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt"
     ],
@@ -40,7 +39,6 @@
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt",
     "https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-ublock.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
     "https://github.com/arfshl/personal-blocklist/raw/main/internal-usage/b.txt"
   ],
   "hiddenSettings": {},
