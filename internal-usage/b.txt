@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202503311146
-! Title: User Filter (Internal Usage)
-! Last Modified: 31 Mar 2025 11:46 UTC
+! Version: 202503311147
+! Title: personal-blocklist (Internal Usage)
+! Last Modified: 31 Mar 2025 11:47 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -109,3 +109,13 @@ bigo*.sg
 
 ! Microsoft Edge Extensions
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
+
+! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/antijudol.txt ***
+
+*toto*
+*judi*
+*togel*
+*poker*
+*taruhan*
+*bet*
+*hoki*
