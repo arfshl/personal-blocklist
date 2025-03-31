@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: User Filter (Parental Control)
+! Title: User Filter (Services Blocking)
 ! Version: 310525
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
@@ -21,12 +21,3 @@
 ! Bigo Live
 bigo*.tv
 bigo*.sg
-
-! Blokir Judi Online !
-*toto*
-*judi*
-*togel*
-*poker*
-*taruhan*
-*bet*
-*hoki*
