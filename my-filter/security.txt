@@ -2,7 +2,7 @@
 ! Title: Security Filter
 ! Version: 21032025
 ! Homepage: https://github.com/arfshl/personal-blocklist
-! Description: Extend dangerous website blocking 
+! Description: Extend dangerous website blocking, immediate threat blocking
 ! Expires: 1 days
 
 ! Disable IDN Homographs
