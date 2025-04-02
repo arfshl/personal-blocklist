@@ -1,70 +1,250 @@
 {
   "SelectedSortedByOnAllDomainsStatisticsScreen" : "MostBlocked",
-  "SelectedServer" : {
-    "value" : {
-      "id" : 13,
-      "providerId" : 10012,
-      "name" : "Cloudflare DNS (DNS-over-HTTPS)",
-      "type" : "doh",
-      "upstreams" : [ "https://dns.cloudflare.com/dns-query" ],
-      "parallelResolve" : false
-    }
-  },
   "DnsDisabledUserRules" : [ ],
-  "DisabledAllowListRules" : "",
+  "VpnAutoPauseVpn" : true,
   "VpnIncludeGateway" : true,
-  "DnsAllUserRules" : [ "@@||www.blackbox.ai^", "@@||spyware.neocities.org^" ],
+  "VpnWritePcap" : false,
+  "DnsAllUserRules" : [ ],
   "FallbackUpstreams" : [ ],
-  "Filters" : [ {
+  "DnsEnableServfailOnUpstreamsFailure" : true,
+  "FilterSecureDnsType" : "FilterOnTheFly",
+  "RequestTimeout" : 5000,
+  "VpnMtu" : 9000,
+  "DetectSearchDomains" : false,
+  "BlockedResponseTtlSecs" : 3600,
+  "HostsRulesBlockingMode" : "ADDRESS",
+  "BootstrapUpstreams" : [ "94.140.14.14:5353", "9.9.9.9:9953" ],
+  "DnsBlockEch" : false,
+  "HiddenHomeCards" : [ ],
+  "DnsBootstrapUpstreamsType" : "CustomDns",
+  "CustomBlockingIpv6" : "",
+  "CustomBlockingIpv4" : "",
+  "SelectedSortedByOnAllSubdomainsStatisticsScreen" : "MostBlocked",
+  "FallbackDomains" : [ ],
+  "PrivateBrowserOnboardingShouldBeShown" : false,
+  "SelectedNetworkTypeForDataUsageOnStatisticsScreen" : "Any",
+  "ShowDeveloperToolsOnHomeScreen" : true,
+  "VpnIpv4Address" : "172.18.11.218",
+  "VpnIpv6Address" : "2001:db8:ad:0:ff::",
+  "FilterSecureDnsEnabled" : true,
+  "SelectedStatisticsDatePeriod" : "Today",
+  "SelectedNetworkTypeForDnsOnStatisticsScreen" : "Any",
+  "VpnForceIPv4DefaultRoute" : false,
+  "WhatsNewDialogShownLastVersion" : "4.0",
+  "DnsEnableUpstreamsValidation" : true,
+  "DnsUserFiltersEnabled" : true,
+  "VpnForceIPv4ComplexRoute" : false,
+  "SelectedStatisticsSortedByForApplications" : "MostRequested",
+  "AdBlockRulesBlockingMode" : "REFUSED",
+  "DnsFilters" : [ {
     "meta" : {
-      "id" : 101,
+      "id" : 15,
       "displayOrder" : 3,
-      "name" : "EasyList",
-      "description" : "EasyList is the primary subscription that removes adverts from web pages in English. Already included in AdGuard Base filter.",
-      "version" : "2.1.1.68",
-      "group" : "Ads",
-      "subscriptionUrl" : "https://easylist-downloads.adblockplus.org/easylist.txt",
-      "homepage" : "https://github.com/easylist/easylist/",
+      "name" : "AdGuard DNS filter (Optimized)",
+      "description" : "Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.",
+      "version" : "2.0.78.45",
+      "group" : "Other",
+      "subscriptionUrl" : "https://filters.adtidy.org/android/filters/15_optimized.txt",
+      "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
       "tags" : [ {
-        "id" : 1,
-        "keyword" : "purpose:ads"
-      } ],
-      "lastTimeDownloaded" : 1678885220000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : null
-  }, {
-    "meta" : {
-      "id" : 102,
-      "displayOrder" : 2,
-      "name" : "ABPindo",
-      "description" : "Additional filter list for websites in Indonesian.",
-      "version" : "2.0.7.64",
-      "group" : "Language",
-      "subscriptionUrl" : "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
-      "homepage" : "https://github.com/ABPindo/indonesianadblockrules",
-      "tags" : [ {
+        "id" : 45,
+        "keyword" : "problematic"
+      }, {
         "id" : 1,
         "keyword" : "purpose:ads"
       }, {
-        "id" : 29,
-        "keyword" : "lang:id"
+        "id" : 2,
+        "keyword" : "purpose:privacy"
       } ],
-      "lastTimeDownloaded" : 1743496684000,
+      "lastTimeDownloaded" : 1743537094478,
       "enabled" : true,
-      "trusted" : true
+      "rulesCount" : 104630
     },
-    "relativePathToFilteringRules" : "/filters/filter_102.txt"
+    "relativePathToFilteringRules" : "/dns_filters/filter_15.txt"
   }, {
     "meta" : {
-      "id" : 103,
-      "displayOrder" : 2,
-      "name" : "Bulgarian list",
-      "description" : "Additional filter list for websites in Bulgarian.",
-      "version" : "2.0.0.33",
-      "group" : "Language",
-      "subscriptionUrl" : "https://stanev.org/abp/adblock_bg.txt",
+      "id" : 10005,
+      "displayOrder" : 0,
+      "name" : "Botnet IP Blocklist (AdGuard Home)",
+      "description" : "",
+      "version" : "",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://malware-filter.gitlab.io/botnet-filter/botnet-filter-agh.txt",
+      "homepage" : "https://gitlab.com/malware-filter/botnet-filter",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743528058329,
+      "enabled" : true,
+      "rulesCount" : 12
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10005.txt"
+  }, {
+    "meta" : {
+      "id" : 10013,
+      "displayOrder" : 0,
+      "name" : "HaGeZi's The World's Most Abused TLDs",
+      "description" : "The Top Most Abused Top Level Domains",
+      "version" : "2025.0331.1601.24",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt",
+      "homepage" : "https://github.com/hagezi/dns-blocklists",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743487806845,
+      "enabled" : true,
+      "rulesCount" : 396
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10013.txt"
+  }, {
+    "meta" : {
+      "id" : 10019,
+      "displayOrder" : 0,
+      "name" : "HaGeZi's Windows/Office Tracker DNS Blocklist",
+      "description" : "Blocks Windows/Office native broadband tracker that track your activity.",
+      "version" : "2025.0330.1808.29",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt",
+      "homepage" : "https://github.com/hagezi/dns-blocklists",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743394242209,
+      "enabled" : true,
+      "rulesCount" : 370
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10019.txt"
+  }, {
+    "meta" : {
+      "id" : 10029,
+      "displayOrder" : 0,
+      "name" : "HaGeZi's Samsung Tracker DNS Blocklist",
+      "description" : "Blocks Samsung native broadband tracker that track your activity.",
+      "version" : "2025.0312.0711.06",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt",
+      "homepage" : "https://github.com/hagezi/dns-blocklists",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1741800227365,
+      "enabled" : true,
+      "rulesCount" : 268
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10029.txt"
+  }, {
+    "meta" : {
+      "id" : 10001,
+      "displayOrder" : 0,
+      "name" : "User Filter (Internal Usage)",
+      "description" : "My User Filter",
+      "version" : "202503311538",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://github.com/arfshl/personal-blocklist/raw/main/internal-usage/b.txt",
+      "homepage" : "https://github.com/arfshl/personal-blocklist",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743487808665,
+      "enabled" : true,
+      "rulesCount" : 94
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10001.txt"
+  }, {
+    "meta" : {
+      "id" : 10002,
+      "displayOrder" : 0,
+      "name" : "ABPindo",
+      "description" : "",
+      "version" : "",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_adult.txt",
+      "homepage" : "",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743487809105,
+      "enabled" : true,
+      "rulesCount" : 340
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10002.txt"
+  }, {
+    "meta" : {
+      "id" : 10014,
+      "displayOrder" : 0,
+      "name" : "BebasID Hosts No Adult",
+      "description" : "My User Filter",
+      "version" : "1",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://github.com/arfshl/personal-blocklist/raw/main/my-filter/bebasidhosts.txt",
+      "homepage" : "https://github.com/arfshl/personal-blocklist",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1742056296146,
+      "enabled" : true,
+      "rulesCount" : 990
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10014.txt"
+  }, {
+    "meta" : {
+      "id" : 10003,
+      "displayOrder" : 0,
+      "name" : "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
+      "description" : "Increases security significantly! Blocks Malware, Cryptojacking, Spam, Scam and Phishing.",
+      "version" : "2025.0401.1149.52",
+      "group" : null,
+      "subscriptionUrl" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
+      "homepage" : "https://github.com/hagezi/dns-blocklists",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743528065439,
+      "enabled" : true,
+      "rulesCount" : 997031
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10003.txt"
+  }, {
+    "meta" : {
+      "id" : 10004,
+      "displayOrder" : 0,
+      "name" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt",
+      "description" : "",
+      "version" : "",
+      "group" : null,
+      "subscriptionUrl" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt",
+      "homepage" : "",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743528066504,
+      "enabled" : true,
+      "rulesCount" : 49614
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10004.txt"
+  }, {
+    "meta" : {
+      "id" : 10000,
+      "displayOrder" : 0,
+      "name" : "HaGeZi's Pro DNS Blocklist",
+      "description" : "Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Crytojacking and other \"Crap\".",
+      "version" : "2025.0401.1410.18",
+      "group" : null,
+      "subscriptionUrl" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
+      "homepage" : "https://github.com/hagezi/dns-blocklists",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743567445070,
+      "enabled" : true,
+      "rulesCount" : 202045
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10000.txt"
+  }, {
+    "meta" : {
+      "id" : 10006,
+      "displayOrder" : 0,
+      "name" : "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/engines_safe_search.txt",
+      "description" : "",
+      "version" : "",
+      "group" : null,
+      "subscriptionUrl" : "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/engines_safe_search.txt",
+      "homepage" : "",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743600076804,
+      "enabled" : true,
+      "rulesCount" : 272
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10006.txt"
+  } ],
+  "SelectedNetworkTypeForRequestsOnStatisticsScreen" : "Any",
+  "SelectedStatisticsSortedByForCompanies" : "MostRequested",
+  "DnsEnableFallbackForNonFallbackDomains" : false,
+  "DnsTryHttp3ForDoH" : true,
+  "ExitDialogShouldBeShown" : true,
+  "DnsCacheSize" : 1000
+}xt",
       "homepage" : "https://github.com/RealEnder/adblockbg/",
       "tags" : [ {
         "id" : 1,
