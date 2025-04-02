@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: BebasID Hosts No Adult
-! Version: 1
+! Version: 02042025
 ! Homepage: https://github.com/arfshl/personal-blocklist
-! Description: My User Filter
+! Description: Unblock Internet Censorship 
 ! Expires: 1 days
 
 ! NO ADULT CONTENT ALLOWED !
