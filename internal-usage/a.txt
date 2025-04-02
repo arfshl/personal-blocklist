@@ -8,7 +8,7 @@ dragate-*.heytapmobi*.com
 *xn--*.*
 *.onion.*
 bca-*.*
-michat.sg
+*michat.sg
 *terabox.com
 *toto*
 *judi*
