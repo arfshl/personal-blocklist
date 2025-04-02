@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202504021234
+! Version: 202504021252
 ! Title: personal-blocklist (Internal Usage)
-! Last Modified: 02 Apr 2025 12:34 UTC
+! Last Modified: 02 Apr 2025 12:52 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -86,10 +86,6 @@ bigo*.sg
 
 
 ! !! Mobile Whitelists
-
-! Fix OPPO Apps
-@@||iflow-sg.browser.heytapmobile.com^
-
 
 ! !! Personal Whitelists
 
