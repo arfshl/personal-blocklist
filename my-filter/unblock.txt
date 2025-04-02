@@ -8,10 +8,6 @@
 
 !!! Mobile Whitelists
 
-! Fix OPPO Apps
-@@||iflow-sg.browser.heytapmobile.com^
-
-
 !!! Personal Whitelists
 
 !! WindowsSpyBlocker Update whitelists
