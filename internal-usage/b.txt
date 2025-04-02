@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202503311538
+! Version: 202504021234
 ! Title: personal-blocklist (Internal Usage)
-! Last Modified: 31 Mar 2025 15:38 UTC
+! Last Modified: 02 Apr 2025 12:34 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -20,15 +20,7 @@ fandom.com##.notifications-box
 ! !! Blocked Domain
 
 ! Google APIs
-firebaselogging-pa.googleapis.com
 userlocation.googleapis.com
-
-! Mozilla Telemetry
-telemetry.mozilla.org
-
-! Sentry
-*sentry*
-||sentry.io^
 
 ! OPPO Ads and Tracker
 ! httpdns.push.oppomobile.com
@@ -48,7 +40,6 @@ mdp-appconf-*.heytapdl.com
 obus-*.*mobi*.com
 ! dragate-sg.dc.heytapmobi.com
 dragate-*.heytapmobi*.com
-register.xmpush.global.xiaomi.com
 ! conn-service-gl-01.allawntech.com
 ! conn-service-gl-03.allawntech.com
 *allawntech.com
