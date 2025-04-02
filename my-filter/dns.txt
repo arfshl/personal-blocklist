@@ -8,15 +8,7 @@
 !!! Blocked Domain
 
 ! Google APIs
-firebaselogging-pa.googleapis.com
 userlocation.googleapis.com
-
-! Mozilla Telemetry
-telemetry.mozilla.org
-
-! Sentry
-*sentry*
-||sentry.io^
 
 ! OPPO Ads and Tracker
 ! httpdns.push.oppomobile.com
@@ -36,7 +28,6 @@ mdp-appconf-*.heytapdl.com
 obus-*.*mobi*.com
 ! dragate-sg.dc.heytapmobi.com
 dragate-*.heytapmobi*.com
-register.xmpush.global.xiaomi.com
 ! conn-service-gl-01.allawntech.com
 ! conn-service-gl-03.allawntech.com
 *allawntech.com
