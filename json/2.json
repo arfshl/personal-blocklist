@@ -1,5 +1,5 @@
 {
-  "SendDoNotTrackSignals" : false,
+  "SelectedSortedByOnAllDomainsStatisticsScreen" : "MostBlocked",
   "SelectedServer" : {
     "value" : {
       "id" : 13,
@@ -10,10 +10,11 @@
       "parallelResolve" : false
     }
   },
+  "DnsDisabledUserRules" : [ ],
   "DisabledAllowListRules" : "",
-  "HttpSplitFragmentSize" : 1,
+  "VpnIncludeGateway" : true,
+  "DnsAllUserRules" : [ "@@||www.blackbox.ai^", "@@||spyware.neocities.org^" ],
   "FallbackUpstreams" : [ ],
-  "WriteHar" : false,
   "Filters" : [ {
     "meta" : {
       "id" : 101,
@@ -39,7 +40,7 @@
       "displayOrder" : 2,
       "name" : "ABPindo",
       "description" : "Additional filter list for websites in Indonesian.",
-      "version" : "2.0.7.60",
+      "version" : "2.0.7.64",
       "group" : "Language",
       "subscriptionUrl" : "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
       "homepage" : "https://github.com/ABPindo/indonesianadblockrules",
@@ -50,11 +51,11 @@
         "id" : 29,
         "keyword" : "lang:id"
       } ],
-      "lastTimeDownloaded" : 1743007031000,
+      "lastTimeDownloaded" : 1743496684000,
       "enabled" : true,
       "trusted" : true
     },
-    "relativePathToFilteringRules" : null
+    "relativePathToFilteringRules" : "/filters/filter_102.txt"
   }, {
     "meta" : {
       "id" : 103,
@@ -298,7 +299,7 @@
       "enabled" : false,
       "trusted" : true
     },
-    "relativePathToFilteringRules" : null
+    "relativePathToFilteringRules" : "/filters/filter_112.txt"
   }, {
     "meta" : {
       "id" : 113,
@@ -349,7 +350,7 @@
       "displayOrder" : 2,
       "name" : "EasyPrivacy",
       "description" : "Privacy protection supplement for EasyList.",
-      "version" : "2.1.41.76",
+      "version" : "2.1.41.83",
       "group" : "Privacy",
       "subscriptionUrl" : "https://easylist.to/easylist/easyprivacy.txt",
       "homepage" : "https://github.com/easylist/easylist/",
@@ -357,7 +358,7 @@
         "id" : 2,
         "keyword" : "purpose:privacy"
       } ],
-      "lastTimeDownloaded" : 1743410308000,
+      "lastTimeDownloaded" : 1743525477000,
       "enabled" : true,
       "trusted" : true
     },
@@ -588,7 +589,7 @@
       "displayOrder" : 1,
       "name" : "Online Malicious URL Blocklist",
       "description" : "Blocks domains that are known to be used to propagate malware and spyware.",
-      "version" : "2.1.1.7",
+      "version" : "2.1.1.10",
       "group" : "Security",
       "subscriptionUrl" : "https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt",
       "homepage" : "https://gitlab.com/malware-filter/urlhaus-filter#malicious-url-blocklist",
@@ -599,8 +600,8 @@
         "id" : 4,
         "keyword" : "purpose:security"
       } ],
-      "lastTimeDownloaded" : 1743382069000,
-      "enabled" : true,
+      "lastTimeDownloaded" : 1743511487000,
+      "enabled" : false,
       "trusted" : true
     },
     "relativePathToFilteringRules" : "/filters/filter_208.txt"
@@ -1321,7 +1322,7 @@
       "displayOrder" : 2,
       "name" : "AdGuard Mobile Ads filter",
       "description" : "Filter for all known mobile ad networks. Useful for mobile devices.",
-      "version" : "2.0.59.47",
+      "version" : "2.0.59.50",
       "group" : "Ads",
       "subscriptionUrl" : "https://filters.adtidy.org/android/filters/11_optimized.txt",
       "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
@@ -1338,7 +1339,7 @@
         "id" : 19,
         "keyword" : "platform:mobile"
       } ],
-      "lastTimeDownloaded" : 1743372390000,
+      "lastTimeDownloaded" : 1743513263000,
       "enabled" : true,
       "trusted" : true
     },
@@ -1374,7 +1375,7 @@
       "displayOrder" : 1,
       "name" : "AdGuard Annoyances filter",
       "description" : "Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.",
-      "version" : "2.2.25.99",
+      "version" : "2.2.26.24",
       "group" : "Annoyances",
       "subscriptionUrl" : "https://filters.adtidy.org/android/filters/14_optimized.txt",
       "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
@@ -1382,7 +1383,7 @@
         "id" : 5,
         "keyword" : "purpose:annoyances"
       } ],
-      "lastTimeDownloaded" : 1743412077000,
+      "lastTimeDownloaded" : 1743538093000,
       "enabled" : true,
       "trusted" : true
     },
@@ -1443,7 +1444,7 @@
       "displayOrder" : 1,
       "name" : "AdGuard URL Tracking filter",
       "description" : "Filter that enhances privacy by removing tracking parameters from URLs.",
-      "version" : "2.0.10.81",
+      "version" : "2.0.10.82",
       "group" : "Privacy",
       "subscriptionUrl" : "https://filters.adtidy.org/android/filters/17_optimized.txt",
       "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
@@ -1451,8 +1452,8 @@
         "id" : 2,
         "keyword" : "purpose:privacy"
       } ],
-      "lastTimeDownloaded" : 1743221314000,
-      "enabled" : true,
+      "lastTimeDownloaded" : 1743509489000,
+      "enabled" : false,
       "trusted" : true
     },
     "relativePathToFilteringRules" : "/filters/filter_17.txt"
@@ -1477,7 +1478,7 @@
       "enabled" : false,
       "trusted" : true
     },
-    "relativePathToFilteringRules" : null
+    "relativePathToFilteringRules" : "/filters/filter_18.txt"
   }, {
     "meta" : {
       "id" : 19,
@@ -1499,7 +1500,7 @@
       "enabled" : false,
       "trusted" : true
     },
-    "relativePathToFilteringRules" : null
+    "relativePathToFilteringRules" : "/filters/filter_19.txt"
   }, {
     "meta" : {
       "id" : 1,
@@ -1546,7 +1547,7 @@
       "enabled" : false,
       "trusted" : true
     },
-    "relativePathToFilteringRules" : null
+    "relativePathToFilteringRules" : "/filters/filter_20.txt"
   }, {
     "meta" : {
       "id" : 21,
@@ -1568,7 +1569,7 @@
       "enabled" : false,
       "trusted" : true
     },
-    "relativePathToFilteringRules" : null
+    "relativePathToFilteringRules" : "/filters/filter_21.txt"
   }, {
     "meta" : {
       "id" : 224,
@@ -1615,14 +1616,14 @@
       "enabled" : false,
       "trusted" : true
     },
-    "relativePathToFilteringRules" : null
+    "relativePathToFilteringRules" : "/filters/filter_22.txt"
   }, {
     "meta" : {
       "id" : 2,
       "displayOrder" : 1,
       "name" : "AdGuard Base filter",
       "description" : "EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.",
-      "version" : "2.3.77.29",
+      "version" : "2.3.77.50",
       "group" : "Ads",
       "subscriptionUrl" : "https://filters.adtidy.org/android/filters/2_optimized.txt",
       "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
@@ -1633,7 +1634,7 @@
         "id" : 1,
         "keyword" : "purpose:ads"
       } ],
-      "lastTimeDownloaded" : 1743412045000,
+      "lastTimeDownloaded" : 1743530866000,
       "enabled" : true,
       "trusted" : true
     },
@@ -1644,7 +1645,7 @@
       "displayOrder" : 1,
       "name" : "AdGuard Tracking Protection filter",
       "description" : "The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.",
-      "version" : "2.0.82.49",
+      "version" : "2.0.82.60",
       "group" : "Privacy",
       "subscriptionUrl" : "https://filters.adtidy.org/android/filters/3_optimized.txt",
       "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
@@ -1655,7 +1656,7 @@
         "id" : 10,
         "keyword" : "recommended"
       } ],
-      "lastTimeDownloaded" : 1743408544000,
+      "lastTimeDownloaded" : 1743513240000,
       "enabled" : true,
       "trusted" : true
     },
@@ -1666,7 +1667,7 @@
       "displayOrder" : 1,
       "name" : "AdGuard Social Media filter",
       "description" : "Filter for social media widgets such as 'Like' and 'Share' buttons and more.",
-      "version" : "2.1.12.84",
+      "version" : "2.1.12.94",
       "group" : "Social",
       "subscriptionUrl" : "https://filters.adtidy.org/android/filters/4_optimized.txt",
       "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
@@ -1677,7 +1678,7 @@
         "id" : 10,
         "keyword" : "recommended"
       } ],
-      "lastTimeDownloaded" : 1743404854000,
+      "lastTimeDownloaded" : 1743538064000,
       "enabled" : true,
       "trusted" : true
     },
@@ -1904,7 +1905,7 @@
       "displayOrder" : 1,
       "name" : "uBlock Origin – Badware risks",
       "description" : "Filter for risky sites, warning users of potential threats.",
-      "version" : "2.0.6.61",
+      "version" : "2.0.6.65",
       "group" : "Security",
       "subscriptionUrl" : "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
       "homepage" : "https://github.com/uBlockOrigin/uAssets/",
@@ -1912,8 +1913,8 @@
         "id" : 4,
         "keyword" : "purpose:security"
       } ],
-      "lastTimeDownloaded" : 1743382109000,
-      "enabled" : true,
+      "lastTimeDownloaded" : 1743525519000,
+      "enabled" : false,
       "trusted" : true
     },
     "relativePathToFilteringRules" : "/filters/filter_257.txt"
@@ -1923,7 +1924,7 @@
       "displayOrder" : 1,
       "name" : "Phishing URL Blocklist",
       "description" : "Phishing URL blocklist for uBlock Origin (uBO), AdGuard, Vivaldi, Pi-hole, Hosts file, Dnsmasq, BIND, Unbound, Snort and Suricata.",
-      "version" : "2.0.7.2",
+      "version" : "2.0.7.5",
       "group" : "Security",
       "subscriptionUrl" : "https://malware-filter.gitlab.io/malware-filter/phishing-filter-ag.txt",
       "homepage" : "https://gitlab.com/malware-filter/phishing-filter",
@@ -1931,8 +1932,8 @@
         "id" : 4,
         "keyword" : "purpose:security"
       } ],
-      "lastTimeDownloaded" : 1743382109000,
-      "enabled" : true,
+      "lastTimeDownloaded" : 1743511517000,
+      "enabled" : false,
       "trusted" : true
     },
     "relativePathToFilteringRules" : "/filters/filter_255.txt"
@@ -1947,7 +1948,7 @@
       "subscriptionUrl" : "https://github.com/uBlockOrigin/uAssets/raw/master/filters/lan-block.txt",
       "homepage" : "https://github.com/uBlockOrigin/uAssets",
       "tags" : [ ],
-      "lastTimeDownloaded" : 1742782761496,
+      "lastTimeDownloaded" : 1743424574901,
       "enabled" : true,
       "trusted" : false
     },
@@ -1958,12 +1959,12 @@
       "displayOrder" : 0,
       "name" : "Bypass Paywalls Clean filter",
       "description" : "Filters for news sites (supports less sites than the extension/add-on)",
-      "version" : "4.0.6.3",
+      "version" : "4.0.8.0",
       "group" : "Custom",
       "subscriptionUrl" : "https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt",
       "homepage" : "https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters",
       "tags" : [ ],
-      "lastTimeDownloaded" : 1742334453889,
+      "lastTimeDownloaded" : 1743487808791,
       "enabled" : true,
       "trusted" : false
     },
@@ -1979,7 +1980,7 @@
       "subscriptionUrl" : "https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt",
       "homepage" : "https://github.com/uBlockOrigin/uAssets",
       "tags" : [ ],
-      "lastTimeDownloaded" : 1743417771313,
+      "lastTimeDownloaded" : 1743538445226,
       "enabled" : true,
       "trusted" : false
     },
@@ -1995,7 +1996,7 @@
       "subscriptionUrl" : "https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt",
       "homepage" : "https://github.com/uBlockOrigin/uAssets",
       "tags" : [ ],
-      "lastTimeDownloaded" : 1742786379057,
+      "lastTimeDownloaded" : 1743424582592,
       "enabled" : true,
       "trusted" : false
     },
@@ -2011,7 +2012,7 @@
       "subscriptionUrl" : "https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt",
       "homepage" : "https://github.com/uBlockOrigin/uAssets",
       "tags" : [ ],
-      "lastTimeDownloaded" : 1742984651067,
+      "lastTimeDownloaded" : 1743424583590,
       "enabled" : true,
       "trusted" : false
     },
@@ -2027,7 +2028,7 @@
       "subscriptionUrl" : "https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt",
       "homepage" : "https://github.com/uBlockOrigin/uAssets",
       "tags" : [ ],
-      "lastTimeDownloaded" : 1742812878411,
+      "lastTimeDownloaded" : 1743511903445,
       "enabled" : true,
       "trusted" : false
     },
@@ -2043,7 +2044,7 @@
       "subscriptionUrl" : "https://github.com/uBlockOrigin/uAssets/raw/master/filters/quick-fixes.txt",
       "homepage" : "https://github.com/uBlockOrigin/uAssets",
       "tags" : [ ],
-      "lastTimeDownloaded" : 1743402695221,
+      "lastTimeDownloaded" : 1743527595502,
       "enabled" : true,
       "trusted" : false
     },
@@ -2059,7 +2060,7 @@
       "subscriptionUrl" : "https://malware-filter.gitlab.io/malware-filter/botnet-filter-ag.txt",
       "homepage" : "https://gitlab.com/malware-filter/botnet-filter",
       "tags" : [ ],
-      "lastTimeDownloaded" : 1743381606385,
+      "lastTimeDownloaded" : 1743511905093,
       "enabled" : true,
       "trusted" : false
     },
@@ -2070,359 +2071,258 @@
       "displayOrder" : 0,
       "name" : "User Filter (Internal Usage)",
       "description" : "My User Filter",
-      "version" : "202503241110",
+      "version" : "202503311538",
       "group" : "Custom",
       "subscriptionUrl" : "https://github.com/arfshl/personal-blocklist/raw/main/internal-usage/b.txt",
       "homepage" : "https://github.com/arfshl/personal-blocklist",
       "tags" : [ ],
-      "lastTimeDownloaded" : 1742947276269,
+      "lastTimeDownloaded" : 1743487817371,
       "enabled" : true,
       "trusted" : true
     },
     "relativePathToFilteringRules" : "/filters/filter_10001.txt"
   } ],
   "DnsEnableServfailOnUpstreamsFailure" : true,
-  "AnnoyancesAndSocialFilters" : [ {
-    "meta" : {
-      "id" : 14,
-      "displayOrder" : 1,
-      "name" : "AdGuard Annoyances filter",
-      "description" : "Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups. Contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.",
-      "version" : "2.2.25.99",
-      "group" : "Annoyances",
-      "subscriptionUrl" : "https://filters.adtidy.org/android/filters/14_optimized.txt",
-      "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
-      "tags" : [ {
-        "id" : 5,
-        "keyword" : "purpose:annoyances"
-      } ],
-      "lastTimeDownloaded" : 1743412077000,
-      "enabled" : true,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_14.txt"
-  }, {
-    "meta" : {
-      "id" : 207,
-      "displayOrder" : 3,
-      "name" : "Adblock Warning Removal List",
-      "description" : "Removes anti-adblock warnings and other obtrusive messages.",
-      "version" : "2.1.24.66",
-      "group" : "Annoyances",
-      "subscriptionUrl" : "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
-      "homepage" : "https://github.com/easylist/antiadblockfilters/",
-      "tags" : [ {
-        "id" : 50,
-        "keyword" : "purpose:antiadblock"
-      } ],
-      "lastTimeDownloaded" : 1678885261000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_207.txt"
-  }, {
-    "meta" : {
-      "id" : 122,
-      "displayOrder" : 100,
-      "name" : "Fanboy's Annoyances",
-      "description" : "Removes in-page pop-ups and other annoyances. Includes Fanboy's Social Blocking & EasyList Cookie Lists.",
-      "version" : "2.1.1.93",
-      "group" : "Annoyances",
-      "subscriptionUrl" : "https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt",
-      "homepage" : "https://github.com/easylist/easylist/",
-      "tags" : [ {
-        "id" : 5,
-        "keyword" : "purpose:annoyances"
-      } ],
-      "lastTimeDownloaded" : 1678885250000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_122.txt"
-  }, {
-    "meta" : {
-      "id" : 241,
-      "displayOrder" : 100,
-      "name" : "EasyList Cookie List",
-      "description" : "Removes cookie and privacy warnings. Already included in Fanboy's Annoyances list.",
-      "version" : "2.1.9.96",
-      "group" : "Annoyances",
-      "subscriptionUrl" : "https://www.fanboy.co.nz/fanboy-cookiemonster.txt",
-      "homepage" : "https://github.com/easylist/easylist/",
-      "tags" : [ {
-        "id" : 6,
-        "keyword" : "purpose:cookies"
-      } ],
-      "lastTimeDownloaded" : 1678885371000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_241.txt"
-  }, {
-    "meta" : {
-      "id" : 250,
-      "displayOrder" : 100,
-      "name" : "Dandelion Sprout's Annoyances List",
-      "description" : "This list is made in the style of AdGuard's and Fanboy's annoyances lists. It combines many of Dandelion Sprout's proudest and most frequently maintained international lists, as a curated compilation for simplicity's sake.",
-      "version" : "2.0.8.95",
-      "group" : "Annoyances",
-      "subscriptionUrl" : "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList",
-      "homepage" : "https://github.com/DandelionSprout/adfilt",
-      "tags" : [ {
-        "id" : 5,
-        "keyword" : "purpose:annoyances"
-      } ],
-      "lastTimeDownloaded" : 1678870914000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_250.txt"
-  }, {
-    "meta" : {
-      "id" : 18,
-      "displayOrder" : 2,
-      "name" : "AdGuard Cookie Notices filter",
-      "description" : "Blocks cookie notices on web pages.",
-      "version" : "2.0.44.62",
-      "group" : "Annoyances",
-      "subscriptionUrl" : "https://filters.adtidy.org/android/filters/18_optimized.txt",
-      "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
-      "tags" : [ {
-        "id" : 5,
-        "keyword" : "purpose:annoyances"
-      }, {
-        "id" : 10,
-        "keyword" : "recommended"
-      } ],
-      "lastTimeDownloaded" : 1722850430000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_18.txt"
-  }, {
-    "meta" : {
-      "id" : 19,
-      "displayOrder" : 2,
-      "name" : "AdGuard Popups filter",
-      "description" : "Blocks all kinds of pop-ups that are not necessary for websites' operation according to our Filter policy.",
-      "version" : "2.0.40.91",
-      "group" : "Annoyances",
-      "subscriptionUrl" : "https://filters.adtidy.org/android/filters/19_optimized.txt",
-      "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
-      "tags" : [ {
-        "id" : 5,
-        "keyword" : "purpose:annoyances"
-      }, {
-        "id" : 10,
-        "keyword" : "recommended"
-      } ],
-      "lastTimeDownloaded" : 1722850432000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_19.txt"
-  }, {
-    "meta" : {
-      "id" : 20,
-      "displayOrder" : 2,
-      "name" : "AdGuard Mobile App Banners filter",
-      "description" : "Blocks irritating banners that promote mobile apps of websites.",
-      "version" : "2.0.15.69",
-      "group" : "Annoyances",
-      "subscriptionUrl" : "https://filters.adtidy.org/android/filters/20_optimized.txt",
-      "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
-      "tags" : [ {
-        "id" : 5,
-        "keyword" : "purpose:annoyances"
-      }, {
-        "id" : 10,
-        "keyword" : "recommended"
-      } ],
-      "lastTimeDownloaded" : 1722872024000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_20.txt"
-  }, {
-    "meta" : {
-      "id" : 21,
-      "displayOrder" : 2,
-      "name" : "AdGuard Other Annoyances filter",
-      "description" : "Blocks irritating elements on web pages that do not fall under the popular categories of annoyances.",
-      "version" : "2.0.24.82",
-      "group" : "Annoyances",
-      "subscriptionUrl" : "https://filters.adtidy.org/android/filters/21_optimized.txt",
-      "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
-      "tags" : [ {
-        "id" : 5,
-        "keyword" : "purpose:annoyances"
-      }, {
-        "id" : 10,
-        "keyword" : "recommended"
-      } ],
-      "lastTimeDownloaded" : 1722875640000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_21.txt"
-  }, {
-    "meta" : {
-      "id" : 22,
-      "displayOrder" : 2,
-      "name" : "AdGuard Widgets filter",
-      "description" : "Blocks annoying third-party widgets: online assistants, live support chats, etc.",
-      "version" : "2.0.9.0",
-      "group" : "Annoyances",
-      "subscriptionUrl" : "https://filters.adtidy.org/android/filters/22_optimized.txt",
-      "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
-      "tags" : [ {
-        "id" : 5,
-        "keyword" : "purpose:annoyances"
-      }, {
-        "id" : 10,
-        "keyword" : "recommended"
-      } ],
-      "lastTimeDownloaded" : 1722864831000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_22.txt"
-  }, {
-    "meta" : {
-      "id" : 123,
-      "displayOrder" : 2,
-      "name" : "Fanboy's Social Blocking List",
-      "description" : "Hides and blocks social content, social widgets, social scripts and social icons. Already included in Fanboy's Annoyances list.",
-      "version" : "2.1.2.32",
-      "group" : "Social",
-      "subscriptionUrl" : "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
-      "homepage" : "https://github.com/easylist/easylist/",
-      "tags" : [ {
-        "id" : 3,
-        "keyword" : "purpose:social"
-      } ],
-      "lastTimeDownloaded" : 1678885252000,
-      "enabled" : false,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_123.txt"
-  }, {
-    "meta" : {
-      "id" : 4,
-      "displayOrder" : 1,
-      "name" : "AdGuard Social Media filter",
-      "description" : "Filter for social media widgets such as 'Like' and 'Share' buttons and more.",
-      "version" : "2.1.12.84",
-      "group" : "Social",
-      "subscriptionUrl" : "https://filters.adtidy.org/android/filters/4_optimized.txt",
-      "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
-      "tags" : [ {
-        "id" : 3,
-        "keyword" : "purpose:social"
-      }, {
-        "id" : 10,
-        "keyword" : "recommended"
-      } ],
-      "lastTimeDownloaded" : 1743404854000,
-      "enabled" : true,
-      "trusted" : true
-    },
-    "relativePathToFilteringRules" : "/filters/filter_4.txt"
-  } ],
-  "BlockPushApi" : false,
-  "AdBlockingPermissionsList" : {
-    "com.microsoft.emmx" : false,
-    "com.google.android.feedback" : null,
-    "com.brave.browser" : false,
-    "com.instagram.android" : null,
-    "com.telkomsel.telkomselcm" : null,
-    "mam.reader.ipusnas" : null,
-    "com.samsung.android.scloud" : null,
-    "com.samsung.android.scpm" : null,
-    "com.samsung.android.themestore" : null,
-    "mega.privacy.android.app" : null,
-    "com.reddit.frontpage" : null,
-    "com.duckduckgo.mobile.android" : null,
-    "com.google.android.apps.authenticator2" : null,
-    "com.facebook.katana" : null,
-    "com.google.android.projection.gearhead" : null,
-    "com.sec.android.app.samsungapps" : null,
-    "com.google.android.captiveportallogin" : null,
-    "com.android.vending" : null,
-    "com.samsung.sec.android.application.csc" : null,
-    "com.samsung.android.incallui" : null,
-    "com.samsung.android.callassistant" : null,
-    "com.samsung.android.app.telephonyui" : null,
-    "com.samsung.crane" : null,
-    "com.android.phone" : null,
-    "com.sec.android.RilServiceModeApp" : null,
-    "com.google.android.apps.messaging" : null,
-    "com.android.bluetooth" : null,
-    "com.samsung.android.knox.app.networkfilter" : null,
-    "com.knox.vpn.proxyhandler" : null,
-    "com.Shooter.ModernWarships" : null,
-    "com.neszha.myexamsbrowser" : true,
-    "com.google.android.googlequicksearchbox" : null,
-    "com.google.android.apps.tachyon" : null,
-    "com.termux" : null,
-    "com.sec.spp.push" : null,
-    "org.mozilla.firefox" : false,
-    "com.mathpresso.qanda" : null,
-    "com.google.android.webview" : null,
-    "com.google.android.inputmethod.latin" : null,
-    "com.android.chrome" : null,
-    "io.github.krlvm.powertunnel.android" : null,
-    "com.osp.app.signin" : false,
-    "com.twitter.android" : null,
-    "com.google.android.apps.maps" : null,
-    "ch.protonvpn.android" : null,
-    "com.starform.metalstorm" : null,
-    "com.google.android.youtube" : null
-  },
+  "FilterSecureDnsType" : "FilterOnTheFly",
   "RequestTimeout" : 5000,
-  "BlockWebRtc" : false,
+  "VpnMtu" : 9000,
   "DetectSearchDomains" : false,
-  "HttpSplitFragmentEnabled" : true,
-  "CustomReferer" : "",
+  "BlockedResponseTtlSecs" : 3600,
   "HostsRulesBlockingMode" : "ADDRESS",
-  "DisableThirdPartyRequestsAuthorization" : false,
   "BootstrapUpstreams" : [ "94.140.14.14:5353", "9.9.9.9:9953" ],
   "DnsBlockEch" : false,
-  "HideUserAgent" : false,
-  "ProtectFromDpi" : true,
-  "CustomServers" : [ {
-    "id" : 1000,
-    "providerId" : 1000000,
-    "name" : "ControlD Hagezi Pro",
-    "type" : "dot",
-    "upstreams" : [ "tls://x-hagezi-pro.freedns.controld.com" ],
-    "parallelResolve" : true
-  } ],
+  "HiddenHomeCards" : [ ],
+  "DnsBootstrapUpstreamsType" : "CustomDns",
+  "CustomBlockingIpv6" : "",
+  "CustomBlockingIpv4" : "",
+  "SelectedSortedByOnAllSubdomainsStatisticsScreen" : "MostBlocked",
+  "CustomServers" : [ ],
   "FallbackDomains" : [ ],
-  "HttpSpaceJuggling" : false,
-  "DisabledUserRules" : [ ],
+  "PrivateBrowserOnboardingShouldBeShown" : false,
+  "SelectedNetworkTypeForDataUsageOnStatisticsScreen" : "Any",
+  "ShowDeveloperToolsOnHomeScreen" : true,
   "FallbackUpstreamsType" : "None",
-  "HideRefererFromThirdParties" : true,
-  "DisableCacheForThirdPartyRequests" : true,
+  "VpnIpv4Address" : "172.18.11.218",
   "AllAllowListRules" : "vidio.com\nhuggingface.co\ndailymail.co.uk",
   "DnsFilteringEnabled" : true,
-  "IncreaseFirstPacketSize" : false,
-  "UserFiltersEnabled" : true,
-  "BlockLocation" : false,
-  "HideSearchQuery" : true,
-  "RemoveXClientDataHeader" : true,
+  "FilterSecureDnsEnabled" : true,
+  "SelectedStatisticsDatePeriod" : "Today",
+  "SelectedNetworkTypeForDnsOnStatisticsScreen" : "Any",
+  "VpnForceIPv4DefaultRoute" : false,
+  "WhatsNewDialogShownLastVersion" : "4.0",
   "DnsEnableUpstreamsValidation" : true,
   "DnsModuleEnabled" : true,
-  "HideIpAddress" : true,
-  "CustomIpAddress" : "146.70.230.146",
+  "DnsUserFiltersEnabled" : true,
+  "VpnForceIPv4ComplexRoute" : false,
+  "SelectedStatisticsSortedByForApplications" : "MostRequested",
   "AdBlockRulesBlockingMode" : "REFUSED",
-  "AllUserRules" : [ ],
-  "ClientHelloSplitFragmentSize" : 1,
-  "ClientHelloSplitFragmentEnabled" : true,
-  "SplitDelayMs" : 50,
+  "DnsFilters" : [ {
+    "meta" : {
+      "id" : 15,
+      "displayOrder" : 3,
+      "name" : "AdGuard DNS filter (Optimized)",
+      "description" : "Filter composed of several other filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.",
+      "version" : "2.0.78.45",
+      "group" : "Other",
+      "subscriptionUrl" : "https://filters.adtidy.org/android/filters/15_optimized.txt",
+      "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
+      "tags" : [ {
+        "id" : 45,
+        "keyword" : "problematic"
+      }, {
+        "id" : 1,
+        "keyword" : "purpose:ads"
+      }, {
+        "id" : 2,
+        "keyword" : "purpose:privacy"
+      } ],
+      "lastTimeDownloaded" : 1743537094478,
+      "enabled" : true,
+      "rulesCount" : 104630
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_15.txt"
+  }, {
+    "meta" : {
+      "id" : 10005,
+      "displayOrder" : 0,
+      "name" : "Botnet IP Blocklist (AdGuard Home)",
+      "description" : "",
+      "version" : "",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://malware-filter.gitlab.io/botnet-filter/botnet-filter-agh.txt",
+      "homepage" : "https://gitlab.com/malware-filter/botnet-filter",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743528058329,
+      "enabled" : true,
+      "rulesCount" : 12
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10005.txt"
+  }, {
+    "meta" : {
+      "id" : 10013,
+      "displayOrder" : 0,
+      "name" : "HaGeZi's The World's Most Abused TLDs",
+      "description" : "The Top Most Abused Top Level Domains",
+      "version" : "2025.0331.1601.24",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt",
+      "homepage" : "https://github.com/hagezi/dns-blocklists",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743487806845,
+      "enabled" : true,
+      "rulesCount" : 396
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10013.txt"
+  }, {
+    "meta" : {
+      "id" : 10019,
+      "displayOrder" : 0,
+      "name" : "HaGeZi's Windows/Office Tracker DNS Blocklist",
+      "description" : "Blocks Windows/Office native broadband tracker that track your activity.",
+      "version" : "2025.0330.1808.29",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt",
+      "homepage" : "https://github.com/hagezi/dns-blocklists",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743394242209,
+      "enabled" : true,
+      "rulesCount" : 370
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10019.txt"
+  }, {
+    "meta" : {
+      "id" : 10029,
+      "displayOrder" : 0,
+      "name" : "HaGeZi's Samsung Tracker DNS Blocklist",
+      "description" : "Blocks Samsung native broadband tracker that track your activity.",
+      "version" : "2025.0312.0711.06",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt",
+      "homepage" : "https://github.com/hagezi/dns-blocklists",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1741800227365,
+      "enabled" : true,
+      "rulesCount" : 268
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10029.txt"
+  }, {
+    "meta" : {
+      "id" : 10001,
+      "displayOrder" : 0,
+      "name" : "User Filter (Internal Usage)",
+      "description" : "My User Filter",
+      "version" : "202503311538",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://github.com/arfshl/personal-blocklist/raw/main/internal-usage/b.txt",
+      "homepage" : "https://github.com/arfshl/personal-blocklist",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743487808665,
+      "enabled" : true,
+      "rulesCount" : 94
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10001.txt"
+  }, {
+    "meta" : {
+      "id" : 10002,
+      "displayOrder" : 0,
+      "name" : "ABPindo",
+      "description" : "",
+      "version" : "",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_adult.txt",
+      "homepage" : "",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743487809105,
+      "enabled" : true,
+      "rulesCount" : 340
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10002.txt"
+  }, {
+    "meta" : {
+      "id" : 10014,
+      "displayOrder" : 0,
+      "name" : "BebasID Hosts No Adult",
+      "description" : "My User Filter",
+      "version" : "1",
+      "group" : "Custom",
+      "subscriptionUrl" : "https://github.com/arfshl/personal-blocklist/raw/main/my-filter/bebasidhosts.txt",
+      "homepage" : "https://github.com/arfshl/personal-blocklist",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1742056296146,
+      "enabled" : true,
+      "rulesCount" : 990
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10014.txt"
+  }, {
+    "meta" : {
+      "id" : 10003,
+      "displayOrder" : 0,
+      "name" : "HaGeZi's Threat Intelligence Feeds DNS Blocklist",
+      "description" : "Increases security significantly! Blocks Malware, Cryptojacking, Spam, Scam and Phishing.",
+      "version" : "2025.0401.1149.52",
+      "group" : null,
+      "subscriptionUrl" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
+      "homepage" : "https://github.com/hagezi/dns-blocklists",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743528065439,
+      "enabled" : true,
+      "rulesCount" : 997031
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10003.txt"
+  }, {
+    "meta" : {
+      "id" : 10004,
+      "displayOrder" : 0,
+      "name" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt",
+      "description" : "",
+      "version" : "",
+      "group" : null,
+      "subscriptionUrl" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt",
+      "homepage" : "",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743528066504,
+      "enabled" : true,
+      "rulesCount" : 49614
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10004.txt"
+  }, {
+    "meta" : {
+      "id" : 10000,
+      "displayOrder" : 0,
+      "name" : "HaGeZi's Pro DNS Blocklist",
+      "description" : "Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Crytojacking and other \"Crap\".",
+      "version" : "2025.0401.1410.18",
+      "group" : null,
+      "subscriptionUrl" : "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
+      "homepage" : "https://github.com/hagezi/dns-blocklists",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743567445070,
+      "enabled" : true,
+      "rulesCount" : 202045
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10000.txt"
+  }, {
+    "meta" : {
+      "id" : 10006,
+      "displayOrder" : 0,
+      "name" : "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/engines_safe_search.txt",
+      "description" : "",
+      "version" : "",
+      "group" : null,
+      "subscriptionUrl" : "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/engines_safe_search.txt",
+      "homepage" : "",
+      "tags" : [ ],
+      "lastTimeDownloaded" : 1743600076804,
+      "enabled" : true,
+      "rulesCount" : 272
+    },
+    "relativePathToFilteringRules" : "/dns_filters/filter_10006.txt"
+  } ],
+  "SelectedNetworkTypeForRequestsOnStatisticsScreen" : "Any",
+  "SelectedStatisticsSortedByForCompanies" : "MostRequested",
   "OutboundProxyDnsUpstreams" : [ "94.140.14.15:5353" ],
   "DnsEnableFallbackForNonFallbackDomains" : false,
   "DnsTryHttp3ForDoH" : true,
-  "AllowListEnabled" : true,
-  "CustomUserAgent" : "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Mobile Safari/537.36"
-        }
+  "ExitDialogShouldBeShown" : true,
+  "DnsCacheSize" : 1000
+}
