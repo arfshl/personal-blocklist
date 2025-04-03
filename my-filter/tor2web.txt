@@ -10,7 +10,3 @@
 
 ! Tor2Web proxy
 *.onion.*
-*onion.to
-*onion.city
-*onion.direct
-*onion.cab
