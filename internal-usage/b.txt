@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202504030423
+! Version: 202504030802
 ! Title: personal-blocklist (Internal Usage)
-! Last Modified: 03 Apr 2025 04:23 UTC
+! Last Modified: 03 Apr 2025 08:02 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -38,10 +38,6 @@ bca-*.*
 
 ! Tor2Web proxy
 *.onion.*
-*onion.to
-*onion.city
-*onion.direct
-*onion.cab
 
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/services.txt ***
 
@@ -90,5 +86,4 @@ bigo*.sg
 *togel*
 *poker*
 *taruhan*
-*bet*
 *hoki*
