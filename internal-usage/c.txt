@@ -1,28 +1,9 @@
-! Domain for NextDNS Denylist/Allowlist
-!! Denylist
+! NextDNS Denylist/Allowlist - Modified 03042025
 
-! Sentry
-sentry.io
+! Denylist
 
 ! Google APIs
-firebaselogging-pa.googleapis.com
 userlocation.googleapis.com
-
-! Mozilla Telemetry
-telemetry.mozilla.org
-
-! OPPO Ads and Trackers
-mdp-appconf-id.heytapdl.com
-httpdns.push.oppomobile.com
-dragate-sg.dc.heytapmobi.com
-stg-data-id.ads.heytapmobile.com
-cl-data-id.ads.heytapmobile.com
-stg-data-id.ads.heytapmobi.com
-adx-id.ads.heytapmobi.com
-cl-data-id.ads.heytapmobi.com
-adx-id.ads.heytapmobile.com
-conn-service-gl-01.allawntech.com
-conn-service-gl-03.allawntech.com
 
 ! OnlyFans
 onlyfans.com
@@ -44,8 +25,6 @@ bigo.tv
 bigovideo.tv
 bigo.sg
 
-!! Whitelist
-iflow-sg.browser.heytapmobile.com
+! Allowlist
 definitionupdates.microsoft.com
 email-link.adtidy.org
-o.rthost.win
