@@ -212,7 +212,7 @@ clients:
         schedule:
           time_zone: Local
         ids: []
-      name: 01
+      name: localhost
       ids:
         - 127.0.0.1
         - ::1
