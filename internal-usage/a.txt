@@ -1,10 +1,4 @@
 userlocation.googleapis.com
-*push.*mobi*.com
-*ads.*mobi*.com
-mdp-appconf-*.heytapdl.com
-obus-*.*mobi*.com
-dragate-*.heytapmobi*.com
-*allawntech.com
 *xn--*.*
 *.onion.*
 bca-*.*
