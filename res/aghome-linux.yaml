@@ -45,7 +45,7 @@ dns:
   cache_ttl_max: 0
   cache_optimistic: true
   bogus_nxdomain: []
-  aaaa_disabled: false
+  aaaa_disabled: true
   enable_dnssec: true
   edns_client_subnet:
     custom_ip: ""
@@ -122,6 +122,10 @@ filters:
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt
     name: HaGeZi's Pro Blocklist
     id: 1743666716
+  - enabled: true
+    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt
+    name: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt
+    id: 1743666718
 whitelist_filters: []
 user_rules:
   - ""
