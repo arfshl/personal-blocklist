@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: personal-blocklist (Ads+Trackers)
-! Version: 010824
+! Version: 03042025
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -10,24 +10,3 @@
 ! Google APIs
 userlocation.googleapis.com
 
-! OPPO Ads and Tracker
-! httpdns.push.oppomobile.com
-! stg-data-id.ads.heytapmobile.com
-! cl-data-id.ads.heytapmobile.com
-! stg-data-id.ads.heytapmobi.com
-! adx-id.ads.heytapmobi.com
-! cl-data-id.ads.heytapmobi.com
-! adx-id.ads.heytapmobile.com
-*push.*mobi*.com
-*ads.*mobi*.com
-! mdp-appconf-id.heytapdl.com
-! mdp-appconf-sg.heytapdl.com
-mdp-appconf-*.heytapdl.com
-! obus-sg.dc.heytapmobile.com
-! obus-dc2-sg.heytapmobile.com
-obus-*.*mobi*.com
-! dragate-sg.dc.heytapmobi.com
-dragate-*.heytapmobi*.com
-! conn-service-gl-01.allawntech.com
-! conn-service-gl-03.allawntech.com
-*allawntech.com
