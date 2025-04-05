@@ -31,6 +31,9 @@
 ! ublock Origin - Badware risks
 %include https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/filters/security/filter_50_UblockBadwareRisks/filter.txt
 
+! HaGeZi Dynamic DNS
+%include https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt%
+
 ! HaGeZi Native Tracker
 %include https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt%
 
