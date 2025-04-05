@@ -2,7 +2,7 @@
 ! Title: personal-blocklist (Unblock)
 ! Version: 24032025
 ! Homepage: https://github.com/arfshl/personal-blocklist
-! Description: My User Filter
+! Description: Unblock false positives or important domain
 ! Expires: 1 days
 
 
