@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: User Filter (Services Blocking)
+! Title: personal-blocklist (Parental Control)
 ! Version: 310525
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
