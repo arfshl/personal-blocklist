@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: User Filter (Quick Fixes)
+! Title: My custom filter (Element)
 ! Version: 31052025
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: Element filter from uBO Element Picker to immediate fixes
