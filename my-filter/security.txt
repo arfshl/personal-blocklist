@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Security Filter
+! Title: personal-blocklist (Security Add-on)
 ! Version: 21032025
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: Extend dangerous website blocking, immediate threat blocking
