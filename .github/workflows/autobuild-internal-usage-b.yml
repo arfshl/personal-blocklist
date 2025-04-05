@@ -1,4 +1,4 @@
-name: build-internal-usage-b
+name: autobuild-internal-usage-b
 
 on:
   workflow_dispatch:
