@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: personal-blocklist (Ads+Trackers)
+! Title: personal-blocklist (DNS Ads+Trackers)
 ! Version: 03042025
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
