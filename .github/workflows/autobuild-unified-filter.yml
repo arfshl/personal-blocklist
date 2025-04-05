@@ -1,8 +1,9 @@
 name: autobuild-unified-filter
 
+on:
   workflow_dispatch:
   schedule:
-      - 0 * * * *
+    - cron: "0 * * * *"
 
 
 permissions:
