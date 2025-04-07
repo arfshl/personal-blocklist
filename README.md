@@ -5,7 +5,7 @@
 
 
 #### I also shared my personal configuration files, notes that this only optimized for my own devices, only use this for references
-[AdGuard for Android](https://github.com/arfshl/personal-blocklist/archive/refs/heads/adguard-android-config.zip)
+[AdGuard for Android](https://github.com/arfshl/personal-blocklist/archive/refs/heads/adguard-for-android-config.zip)
 
 [Private AdGuard DNS](https://github.com/arfshl/personal-blocklist/raw/main/res/adguarddnsconfig.txt)
 
