@@ -1,0 +1,25 @@
+! NextDNS Denylist/Allowlist - Modified 03042025
+
+! Denylist
+
+! Google APIs
+userlocation.googleapis.com
+
+! OnlyFans
+onlyfans.com
+
+! MiChat
+michat.sg
+
+! Terabox
+terabox.com
+
+! Bigo Live
+bigolive.tv
+bigo.tv
+bigovideo.tv
+bigo.sg
+
+! Allowlist
+definitionupdates.microsoft.com
+email-link.adtidy.org

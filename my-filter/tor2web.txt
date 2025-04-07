@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: personal-blocklist (Block Tor2Web)
+! Version: 03042025
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: Block Tor2Web service
+! Expires: 1 days
+
+! Tor2Web main sites
+||tor2web.org^
+
+! Tor2Web proxy
+*.onion.*

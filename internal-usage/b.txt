@@ -1,0 +1,89 @@
+[Adblock Plus 2.0]
+! Version: 202504051351
+! Title: personal-blocklist (Internal Usage)
+! Last Modified: 05 Apr 2025 13:51 UTC
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+
+! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/adblock.txt ***
+
+! Google Login Popup
+||accounts.google.com/gsi/iframe/select$subdocument
+
+! Fandom Age Personalization
+fandom.com###age-gate
+fandom.com##.notifications-box
+
+! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/dns.txt ***
+
+! !! Blocked Domain
+
+! Google APIs
+userlocation.googleapis.com
+
+
+! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/security.txt ***
+
+! Disable IDN Homographs
+*xn--*.*
+
+! Phishing BCA
+bca-*.*
+
+! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/tor2web.txt ***
+
+! Tor2Web main sites
+||tor2web.org^
+
+! Tor2Web proxy
+*.onion.*
+
+! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/services.txt ***
+
+! OnlyFans
+*onlyfans.com
+
+! Tinder
+*tinder*.com
+
+! MiChat
+*michat.sg
+
+! Terabox
+*terabox.com
+
+! Bigo Live
+bigo*.tv
+bigo*.sg
+
+! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt ***
+
+
+! !! Mobile Whitelists
+
+! !! Personal Whitelists
+
+! ! WindowsSpyBlocker Update whitelists
+
+! Windows Defender definition update
+@@||definitionupdates.microsoft.com^
+
+! Windows Update Catalog
+@@||catalog.update.microsoft.com^
+@@||catalog.s.download.windowsupdate.com^
+
+! OneDrive
+@@||skydrivesync.policies.live.net^
+
+! Microsoft Edge Extensions
+@@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
+
+! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/antijudol.txt ***
+
+*toto*
+*judi*
+*togel*
+*poker*
+*taruhan*
+*hoki*

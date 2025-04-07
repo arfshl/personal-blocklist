@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Title: personal-blocklist (Internal Usage)
+! Last Modified: %timestamp%
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/adblock.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/dns.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/security.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/tor2web.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/services.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/antijudol.txt%
