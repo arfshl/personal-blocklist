@@ -1,7 +1,7 @@
 [Adblock Plus 3.13]
-! Version: 202504091251
+! Version: 202504091334
 ! Title: personal-blocklist (Unified Reccomendation DNS Filter For uBlock Origin)
-! Last Modified: 09 Apr 2025 12:51 UTC
+! Last Modified: 09 Apr 2025 13:34 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: Unifies my personal filter and reccomended dns filter, updated every hour, use with your own risks
 ! Expires: 1 days
