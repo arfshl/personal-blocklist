@@ -2,6 +2,13 @@
 
 ! Denylist
 userlocation.googleapis.com
+onlyfans.com
+michat.sg
+terabox.com
+bigolive.tv
+bigo.tv
+bigovideo.tv
+bigo.sg
 
 ! Allowlist
 definitionupdates.microsoft.com
