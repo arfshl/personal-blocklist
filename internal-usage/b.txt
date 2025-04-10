@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
-! Version: 202504070340
-! Title: personal-blocklist (Internal Usage)
-! Last Modified: 07 Apr 2025 03:40 UTC
+! Version: 202504101303
+! Title: personal-blocklist (Internal Usage DNS Filtering)
+! Last Modified: 10 Apr 2025 13:03 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
 
+! personal-blocklist (Ads+Tracker, Security, Tor2Web, Unblock, Element Filter)
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/adblock.txt ***
 
 ! Google Login Popup
@@ -39,24 +40,6 @@ bca-*.*
 ! Tor2Web proxy
 *.onion.*
 
-! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/services.txt ***
-
-! OnlyFans
-*onlyfans.com
-
-! Tinder
-*tinder*.com
-
-! MiChat
-*michat.sg
-
-! Terabox
-*terabox.com
-
-! Bigo Live
-bigo*.tv
-bigo*.sg
-
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt ***
 
 
@@ -78,12 +61,3 @@ bigo*.sg
 
 ! Microsoft Edge Extensions
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
-
-! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/antijudol.txt ***
-
-*toto*
-*judi*
-*togel*
-*poker*
-*taruhan*
-*hoki*
