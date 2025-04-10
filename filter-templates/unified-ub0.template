@@ -14,8 +14,14 @@
 
 %include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt%
 
+! HaGeZi Threat Intelligence Feeds
+%include https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt%
+
+! HaGeZi Most Abused TLDs
+%include https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt%
+
 ! AdBlockID
-https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
+%include https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt%
 
 ! Browse Websites Without Logging In
 %include https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithout

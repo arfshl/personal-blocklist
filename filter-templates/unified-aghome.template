@@ -17,7 +17,7 @@
 ! HaGeZi Multi Pro
 %include https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt%
 
-! HaGeZi Threat Intelligence Feeds (Domain+IPs)
+! HaGeZi Threat Intelligence Feeds
 %include https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt%
 
 ! HaGeZi Most Abused TLDs

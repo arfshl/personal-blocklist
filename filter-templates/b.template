@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Title: personal-blocklist (Internal Usage DNS Filtering)
+! Last Modified: %timestamp%
+! Homepage: https://github.com/arfshl/personal-blocklist
+! Description: My User Filter
+! Expires: 1 days
+
+! personal-blocklist (Ads+Tracker, Security, Tor2Web, Unblock, Element Filter)
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/adblock.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/dns.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/security.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/tor2web.txt%
+
+%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt%
