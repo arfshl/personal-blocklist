@@ -58,7 +58,9 @@
 
 - [NextDNS Social Networks](https://github.com/arfshl/nextdns-blocklists/raw/latest/subscriptions/social-networks.txt)
 
-### uBlock Origin | Brave Browser
+### uBlock Origin | Brave Browser | AdGuard for Android
+
+- Enable Aggressive Mode for Brave browser 
 
 - Keep Default List, Enable Easylist Social, Easylist Annoyances / Fanboy Annoyances, uBlock Annoyances (uBlock Origin only)
 
