@@ -1,6 +1,6 @@
 # personal-blocklist
 
-## Recommended filter for uBlock Origin | Brave Browser | AdGuard for Android | AdGuard Home
+## uBlock Origin/Brave Browser, AdGuard Home, NextDNS, RethinkDNS, AdGuard for Android Filter Configuration
 
 ## Recommended encrypted DNS Upstream 
 
