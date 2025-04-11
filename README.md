@@ -2,9 +2,24 @@
 
 ## Recommended filter for uBlock Origin | Brave Browser | AdGuard for Android | AdGuard Home
 
-### AdGuard Home or AdGuard for Android (DNS Filtering)
+## Recommended encrypted DNS Upstream 
 
-- DNS Upstream: Cloudflare DNS (h3://cloudlare-dns.com/dns-query)
+| Provider | DNS-Over-HTTPS/HTTP3 | Alternative UDP Port (for fallback/bootstrap) |
+| --- | --- | --- | 
+| Cloudflare DNS | https://cloudflare-dns.com/dns-query |
+| AdGuard DNS | https://dns.adguard-dns.com/dns-query | 94.140.14.14:5353, 94.140.15.15:5353 |
+| Quad9 | https://dns.quad9.net/dns-query | 9.9.9.9:9953, 149.112.112.112:9953
+| Mullvad | https://dns.mullvad.net/dns-query |
+| ControlD Unfiltered | https://freedns.controld.com/p0 |
+| ControlD Uncensored | https://freedns.controld.com/uncensored |
+| dns0.eu | https://dns0.eu |
+| dns0.eu ZERO | https://zero.dns0.eu |
+| NextDNS | https://dns.nextdns.io/dns-query | 45.90.28.0:5353, 45.90.30.0:5353
+| RethinkDNS | https://sky.rethinkdns.com/dns-query | 
+| dnswarden | https://dns.dnswarden.com/uncensored |
+| Cisco OpenDNS | https://doh.opendns.com/dns-query | 208.67.222.222:5353, 208.67.220.220:5353
+
+### AdGuard Home or AdGuard for Android DNS Filtering
 
 - AdGuard DNS Filter (Enabled by default)
 
