@@ -22,6 +22,11 @@
 | OpenBLD | https://ric.openbld.net/dns-query/hagezi |
 
 ## Android Secure DNS with Adblocking
+Criteria: Must be have Ads, Tracker and Malware blocking capabilities
+
+| Provider | Address |
+| --- | --- |
+| | |
 
 ### AdGuard Home or AdGuard for Android DNS Filtering
 
