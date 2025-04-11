@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202504101303
+! Version: 202504112154
 ! Title: personal-blocklist (Internal Usage DNS Filtering)
-! Last Modified: 10 Apr 2025 13:03 UTC
+! Last Modified: 11 Apr 2025 21:54 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -19,9 +19,6 @@ fandom.com##.notifications-box
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/dns.txt ***
 
 ! !! Blocked Domain
-
-! Google APIs
-userlocation.googleapis.com
 
 
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/security.txt ***
