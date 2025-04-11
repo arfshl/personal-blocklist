@@ -1,7 +1,5 @@
 # personal-blocklist
 
-## uBlock Origin/Brave Browser, AdGuard Home, NextDNS, RethinkDNS, AdGuard for Android Filter Configuration +
-
 ## Recommended AdGuard Home/AdGuard for Android encrypted DNS Upstream 
 
 | Provider | DNS-Over-HTTPS/HTTP3 | Alternative UDP Port (for fallback/bootstrap) |
