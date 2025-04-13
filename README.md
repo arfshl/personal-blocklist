@@ -89,8 +89,8 @@
 | AdGuard DNS Unfiltered (Default) | https://unfiltered.adguard-dns.com/dns-query | 94.140.14.140:5353, 94.140.14.141:5353 |
 | dns0.eu | https://dns0.eu |
 | dns0.eu ZERO (Anti-malware) | https://zero.dns0.eu 
-| Quad9 (Anti-malware) ! <potentially high latency and uptime issues> | https://dns.quad9.net/dns-query | 9.9.9.9:9953, 149.112.112.112:9953
-| Mullvad ! <potentially high latency and uptime issues> | https://dns.mullvad.net/dns-query |
+| Quad9 (Anti-malware) (potentially high latency and uptime issues) | https://dns.quad9.net/dns-query | 9.9.9.9:9953, 149.112.112.112:9953
+| Mullvad (potentially high latency and uptime issues) | https://dns.mullvad.net/dns-query |
 ## Android/iOS Secure DNS with Adblocking
 Criteria: Must be have Ads, Tracker and Malware blocking capabilities
 
@@ -98,7 +98,7 @@ Criteria: Must be have Ads, Tracker and Malware blocking capabilities
 | --- | --- | --- |
 | ControlD Hagezi's DNS - Pro| x-hagezi-pro.freedns.controld.com | [Apple](https://api.controld.com/mobileconfig/x-hagezi-proplus?type=free&exclude_common=1) |
 | AdGuard DNS | dns.adguard-dns.com | [DNS-Over-HTTPS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/adguard-dns-doh.mobileconfig) [DNS-Over-TLS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/adguard-dns-dot.mobileconfig) |
-| Mullvad Base (Ads+Tracker+Malware) ! <potentially high latency and uptime issues> | base.dns.mullvad.net | [DNS-Over-HTTPS](https://github.com/mullvad/encrypted-dns-profiles/raw/refs/heads/main/base/mullvad-encrypted-dns-https-base.mobileconfig) [DNS-Over-TLS](https://github.com/mullvad/encrypted-dns-profiles/raw/refs/heads/main/base/mullvad-encrypted-dns-tls-base.mobileconfig)|
+| Mullvad Base (Ads+Tracker+Malware) ! (potentially high latency and uptime issues) | base.dns.mullvad.net | [DNS-Over-HTTPS](https://github.com/mullvad/encrypted-dns-profiles/raw/refs/heads/main/base/mullvad-encrypted-dns-https-base.mobileconfig) [DNS-Over-TLS](https://github.com/mullvad/encrypted-dns-profiles/raw/refs/heads/main/base/mullvad-encrypted-dns-tls-base.mobileconfig)|
 
 #### I also shared my personal configuration files, notes that this only optimized for my own devices, only use this for references
 [AdGuard for Android](https://github.com/arfshl/personal-blocklist/archive/refs/heads/adguard-for-android-config.zip)
