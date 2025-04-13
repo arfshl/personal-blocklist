@@ -97,11 +97,9 @@ Criteria: Must be have Ads, Tracker and Malware blocking capabilities
 | Provider | Address | Apple Mobileconfig
 | --- | --- | --- |
 | ControlD Hagezi's DNS - Pro| x-hagezi-pro.freedns.controld.com | [Apple](https://api.controld.com/mobileconfig/x-hagezi-proplus?type=free&exclude_common=1) |
-| RethinkDNS - Hagezi Pro + TIF + Native Tracking | 1-eafaacaqaaaba.max.rethinkdns.com | [DNS-Over-HTTPS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/rethinkdns-hagezi.mobileconfig) |
-| dnswarden - Hagezi Pro + TIF + Native Tracking | 0000000000000c000000018.dns.dnswarden.com | 
 | Mullvad Base (Ads+Tracker+Malware) | base.dns.mullvad.net | [DNS-Over-HTTPS](https://github.com/mullvad/encrypted-dns-profiles/raw/refs/heads/main/base/mullvad-encrypted-dns-https-base.mobileconfig) [DNS-Over-TLS](https://github.com/mullvad/encrypted-dns-profiles/raw/refs/heads/main/base/mullvad-encrypted-dns-tls-base.mobileconfig)|
-
 | AdGuard DNS | dns.adguard-dns.com | [DNS-Over-HTTPS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/adguard-dns-doh.mobileconfig) [DNS-Over-TLS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/adguard-dns-dot.mobileconfig) |
+| RethinkDNS - Hagezi Pro + TIF + Native Tracking | 1-eafaacaqaaaba.max.rethinkdns.com | [DNS-Over-HTTPS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/rethinkdns-hagezi.mobileconfig) |
 
 #### I also shared my personal configuration files, notes that this only optimized for my own devices, only use this for references
 [AdGuard for Android](https://github.com/arfshl/personal-blocklist/archive/refs/heads/adguard-for-android-config.zip)
