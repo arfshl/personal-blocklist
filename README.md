@@ -14,9 +14,9 @@
 
 - [WindowsSpyBlocker Update - For disabling windows update, but blocks access to microsoft store](https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/dnscrypt/update.txt)
 
-- [Adobe Tracker Blocklist](https://a.dove.isdumb.one/list.txt)
+- [Adobe Tracker Blocklist (if you use adobe products)](https://a.dove.isdumb.one/list.txt)
 
-- [Custom Filter (blocks tor2web, disable IDN homographs = non-latin domains, unblocking important domain)](https://raw.githubusercontent.com/arfshl/personal-blocklist/refs/heads/main/internal-usage/b.txt)
+- [Custom Filter (blocks tor2web, disable IDN homographs (non-latin domains and TLDs), unblocking important domain)](https://raw.githubusercontent.com/arfshl/personal-blocklist/refs/heads/main/internal-usage/b.txt)
 
 #### Parental Control
 
@@ -91,7 +91,7 @@
 | Mullvad | https://dns.mullvad.net/dns-query |
 | dns0.eu | https://dns0.eu |
 | dns0.eu ZERO (Anti-malware) | https://zero.dns0.eu 
-## Android Secure DNS with Adblocking
+## Android/iOS Secure DNS with Adblocking
 Criteria: Must be have Ads, Tracker and Malware blocking capabilities
 
 | Provider | Address | Apple Mobileconfig
