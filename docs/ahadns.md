@@ -1,16 +1,16 @@
-## AhaDNS Configuration (Ads,Tracker,Malware Blocking)
+## AhaDNS Blitz Configuration (Ads,Tracker,Malware Blocking)
 
 | DNS-Over-HTTPS |
 | --- |
 | | 
 
-## AhaDNS Configuration (Ads,Tracker,Malware Blocking + Parental Control)
+## AhaDNS Blitz Configuration (Ads,Tracker,Malware Blocking + Parental Control)
 
 | DNS-Over-HTTPS |
 | --- |
 | |
 
-## AhaDNS Configuration (Ads,Tracker,Malware Blocking + Parental Control + Social Media)
+## AhaDNS Blitz Configuration (Ads,Tracker,Malware Blocking + Parental Control + Social Media)
 
 | DNS-Over-HTTPS |
 | --- |
