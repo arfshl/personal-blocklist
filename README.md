@@ -84,26 +84,24 @@
 | Cloudflare DNS - Security | https://security.cloudflare-dns.com/dns-query |
 | Quad9 (Anti-malware) | https://dns.quad9.net/dns-query | 9.9.9.9:9953, 149.112.112.112:9953
 | NextDNS | https://dns.nextdns.io/dns-query | 45.90.28.0:5353, 45.90.30.0:5353
-| AdGuard DNS Unfiltered | https://unfiltered.adguard-dns.com/dns-query | 94.140.14.140:5353, 94.140.14.141:5353 |
+| AdGuard DNS Unfiltered (Default) | https://unfiltered.adguard-dns.com/dns-query | 94.140.14.140:5353, 94.140.14.141:5353 |
 | ControlD Unfiltered | https://freedns.controld.com/p0 |
 | ControlD Malware | https://freedns.controld.com/p1 |
 | ControlD Uncensored | https://freedns.controld.com/uncensored |
-| dns0.eu | https://dns0.eu |
-| dns0.eu ZERO (Anti-malware) | https://zero.dns0.eu |
 | Mullvad | https://dns.mullvad.net/dns-query |
-| Cisco OpenDNS | https://doh.opendns.com/dns-query | 208.67.222.222:5353, 208.67.220.220:5353
-
+| dns0.eu | https://dns0.eu |
+| dns0.eu ZERO (Anti-malware) | https://zero.dns0.eu 
 ## Android Secure DNS with Adblocking
 Criteria: Must be have Ads, Tracker and Malware blocking capabilities
 
 | Provider | Address | Apple Mobileconfig
 | --- | --- | --- |
 | ControlD Hagezi's DNS - Pro| x-hagezi-pro.freedns.controld.com | [Apple](https://api.controld.com/mobileconfig/x-hagezi-proplus?type=free&exclude_common=1) |
-| AdGuard DNS | dns.adguard-dns.com | [DNS-Over-HTTPS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/adguard-dns-doh.mobileconfig) [DNS-Over-TLS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/adguard-dns-dot.mobileconfig) |
 | RethinkDNS - Hagezi Pro + TIF + Native Tracking | 1-eafaacaqaaaba.max.rethinkdns.com | [DNS-Over-HTTPS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/rethinkdns-hagezi.mobileconfig) |
-| Mullvad Base (Ads+Tracker+Malware) | base.dns.mullvad.net | [DNS-Over-HTTPS](https://github.com/mullvad/encrypted-dns-profiles/raw/refs/heads/main/base/mullvad-encrypted-dns-https-base.mobileconfig) [DNS-Over-TLS](https://github.com/mullvad/encrypted-dns-profiles/raw/refs/heads/main/base/mullvad-encrypted-dns-tls-base.mobileconfig)|
 | dnswarden - Hagezi Pro + TIF + Native Tracking | 0000000000000c000000018.dns.dnswarden.com | 
+| Mullvad Base (Ads+Tracker+Malware) | base.dns.mullvad.net | [DNS-Over-HTTPS](https://github.com/mullvad/encrypted-dns-profiles/raw/refs/heads/main/base/mullvad-encrypted-dns-https-base.mobileconfig) [DNS-Over-TLS](https://github.com/mullvad/encrypted-dns-profiles/raw/refs/heads/main/base/mullvad-encrypted-dns-tls-base.mobileconfig)|
 
+| AdGuard DNS | dns.adguard-dns.com | [DNS-Over-HTTPS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/adguard-dns-doh.mobileconfig) [DNS-Over-TLS](https://github.com/arfshl/personal-blocklist/raw/refs/heads/main/appledns/adguard-dns-dot.mobileconfig) |
 
 #### I also shared my personal configuration files, notes that this only optimized for my own devices, only use this for references
 [AdGuard for Android](https://github.com/arfshl/personal-blocklist/archive/refs/heads/adguard-for-android-config.zip)
