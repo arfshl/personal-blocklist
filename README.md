@@ -1,7 +1,7 @@
 # personal-blocklist
 
 ## Lists
-- [AdGuard Home or AdGuard for Android DNS Filtering](AdGuard Home or AdGuard for Android DNS Filtering)
+- [AdGuard Home or AdGuard for Android DNS Filtering](https://github.com/arfshl/personal-blocklist/tree/main#adguard-home-or-adguard-for-android-dns-filtering)
 - [AdGuard Home Parental Control](https://github.com/arfshl/personal-blocklist/tree/main#parental-control)
 - [uBlock Origin | Brave Browser | AdGuard for Android Recommended Filter](https://github.com/arfshl/personal-blocklist/tree/main#ublock-origin--brave-browser--adguard-for-android)
 - [NextDNS Configuration](https://github.com/arfshl/personal-blocklist/blob/main/docs/nextdns.md)
