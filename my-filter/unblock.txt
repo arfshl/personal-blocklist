@@ -5,11 +5,6 @@
 ! Description: Unblock false positives or important domain
 ! Expires: 1 days
 
-
-!!! Mobile Whitelists
-
-!!! Personal Whitelists
-
 !! WindowsSpyBlocker Update whitelists
 
 ! Windows Defender definition update
@@ -24,3 +19,11 @@
 
 ! Microsoft Edge Extensions
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
+
+@@||lk21static.buzz^
+@@||comment.xx1.red^
+@@||playeriframe.lol^
+@@||cloud-x-21-srb.amino01.lol^
+@@||short.icu^
+@@||globalcdn40.buzz^
+@@||idocdn.com^
