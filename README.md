@@ -4,7 +4,7 @@
 - [AdGuard Home or AdGuard for Android DNS Filtering](https://github.com/arfshl/personal-blocklist/tree/main#adguard-home-or-adguard-for-android-dns-filtering)
 - [AdGuard Home Parental Control](https://github.com/arfshl/personal-blocklist/tree/main#parental-control)
 - [uBlock Origin | Brave Browser | AdGuard for Android Recommended Filter](https://github.com/arfshl/personal-blocklist/tree/main#ublock-origin--brave-browser--adguard-for-android)
-- [Android/iOS Secure DNS](https://github.com/arfshl/personal-blocklist/blob/main/docs/android-resolvers)
+- [Android/iOS Secure DNS](https://github.com/arfshl/personal-blocklist/blob/main/docs/android-resolvers.md)
 - [NextDNS Configuration](https://github.com/arfshl/personal-blocklist/blob/main/docs/nextdns.md)
 - [AhaDNS Configuration](https://github.com/arfshl/personal-blocklist/blob/main/docs/ahadns.md)
 - [AdGuard Home/AdGuard for Android DNS Upstream](https://github.com/arfshl/personal-blocklist/blob/main/docs/resolvers.md)
