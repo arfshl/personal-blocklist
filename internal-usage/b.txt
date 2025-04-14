@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202504112154
+! Version: 202504140845
 ! Title: personal-blocklist (Internal Usage DNS Filtering)
-! Last Modified: 11 Apr 2025 21:54 UTC
+! Last Modified: 14 Apr 2025 08:45 UTC
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: My User Filter
 ! Expires: 1 days
@@ -39,11 +39,6 @@ bca-*.*
 
 ! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt ***
 
-
-! !! Mobile Whitelists
-
-! !! Personal Whitelists
-
 ! ! WindowsSpyBlocker Update whitelists
 
 ! Windows Defender definition update
@@ -58,3 +53,11 @@ bca-*.*
 
 ! Microsoft Edge Extensions
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
+
+@@||lk21static.buzz^
+@@||comment.xx1.red^
+@@||playeriframe.lol^
+@@||cloud-x-21-srb.amino01.lol^
+@@||short.icu^
+@@||globalcdn40.buzz^
+@@||idocdn.com^
