@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: personal-blocklist (Unblock)
-! Version: 24032025
+! Version: 14042025
 ! Homepage: https://github.com/arfshl/personal-blocklist
 ! Description: Unblock false positives or important domain
 ! Expires: 1 days
@@ -20,6 +20,7 @@
 ! Microsoft Edge Extensions
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
 
+! lk21.de
 @@||lk21static.buzz^
 @@||comment.xx1.red^
 @@||playeriframe.lol^
