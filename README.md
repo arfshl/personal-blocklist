@@ -1,5 +1,11 @@
 # personal-blocklist
 
+## Lists
+- [AdGuard Home or AdGuard for Android DNS Filtering](AdGuard Home or AdGuard for Android DNS Filtering)
+- [AdGuard Home Parental Control](https://github.com/arfshl/personal-blocklist/tree/main#parental-control)
+- [uBlock Origin | Brave Browser | AdGuard for Android Recommended Filter](https://github.com/arfshl/personal-blocklist/tree/main#ublock-origin--brave-browser--adguard-for-android)
+- [NextDNS Configuration](https://github.com/arfshl/personal-blocklist/blob/main/docs/nextdns.md)
+
 ## AdGuard Home or AdGuard for Android DNS Filtering
 
 - AdGuard DNS Filter (Enabled by default)
@@ -18,7 +24,7 @@
 
 - [Custom Filter (blocks tor2web, disable IDN homographs (non-latin domains and TLDs), unblocking important domain)](https://raw.githubusercontent.com/arfshl/personal-blocklist/refs/heads/main/internal-usage/b.txt)
 
-#### Parental Control
+#### AdGuard Home Parental Control
 
 - You Can Block/Unblock Services at Blocked Services menu, and set schedule for pause blocking
 
@@ -69,11 +75,6 @@
 - [AdBlockID (for Indonesian region)](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/realodix/AdBlockID@master/dist/adblockid.adfl.txt&title=AdBlockID)
 
 - [🚪 Browse websites without logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/BrowseWebsitesWithoutLoggingIn.txt)
-
-
-## NextDNS Configuration
-
-## AdGuard DNS Configuration
 
 
 #### I also shared my personal configuration files, notes that this only optimized for my own devices, only use this for references
