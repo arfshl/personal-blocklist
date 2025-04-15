@@ -23,7 +23,11 @@
 - Allow Affiliate & Tracking Links -> ON
 
 ### Parental Control
-- Depends on your needs
+- Websites, Apps & Games: Restrict access to specific websites, apps and games, Depending on your needs
+- Categories: Add Porn, Dating and Gambling. other is depends on your needs
+- SafeSearch -> ON
+- YouTube Restricted Mode -> Optional, can block video comments
+- Block Bypass Methods -> ON
 
 #### Settings
  - Logs: Storage Location -> Swiss
