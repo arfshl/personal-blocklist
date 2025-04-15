@@ -115,8 +115,8 @@ filters:
     name: Adobe GenP
     id: 1727819854
   - enabled: true
-    url: https://raw.githubusercontent.com/arfshl/personal-blocklist/main/internal-usage/b.txt
-    name: https://raw.githubusercontent.com/arfshl/personal-blocklist/main/internal-usage/b.txt
+    url: https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/internal-usage/b.txt
+    name: https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/internal-usage/b.txt
     id: 1741694470
   - enabled: true
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt

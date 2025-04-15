@@ -111,8 +111,8 @@ filters:
     name: HaGeZi's Pro Blocklist
     id: 1743666716
   - enabled: true
-    url: https://raw.githubusercontent.com/arfshl/personal-blocklist/refs/heads/main/internal-usage/b.txt
-    name: https://raw.githubusercontent.com/arfshl/personal-blocklist/refs/heads/main/internal-usage/b.txt
+    url: https://raw.githubusercontent.com/arfshl/adblock-dns-config/refs/heads/main/internal-usage/b.txt
+    name: https://raw.githubusercontent.com/arfshl/adblock-dns-config/refs/heads/main/internal-usage/b.txt
     id: 1743995108
 whitelist_filters: []
 user_rules:
