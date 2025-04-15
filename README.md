@@ -1,15 +1,15 @@
 # Adblock and DNS Services Configuration
 
 ## Table of Contents
-- [AdGuard Home or AdGuard for Android DNS Filtering](https://github.com/arfshl/personal-blocklist/tree/main#adguard-home-or-adguard-for-android-dns-filtering)
-- [AdGuard Home Parental Control](https://github.com/arfshl/personal-blocklist/tree/main#parental-control)
-- [uBlock Origin | Brave Browser | AdGuard for Android Recommended Filter](https://github.com/arfshl/personal-blocklist/tree/main#ublock-origin--brave-browser--adguard-for-android)
-- [uBlock Origin Lite](https://github.com/arfshl/personal-blocklist/tree/main#ublock-origin-lite)
-- [Android/iOS Secure DNS](https://github.com/arfshl/personal-blocklist/blob/main/docs/android-resolvers.md)
-- [NextDNS Configuration](https://github.com/arfshl/personal-blocklist/blob/main/docs/nextdns.md)
-- [AdGuard Private DNS](https://github.com/arfshl/personal-blocklist/blob/main/docs/adguarddns.md)
-- [AhaDNS Configuration](https://github.com/arfshl/personal-blocklist/blob/main/docs/ahadns.md)
-- [AdGuard Home/AdGuard for Android DNS Upstream](https://github.com/arfshl/personal-blocklist/blob/main/docs/resolvers.md)
+- [AdGuard Home or AdGuard for Android DNS Filtering](https://github.com/arfshl/adblock-dns-config/tree/main#adguard-home-or-adguard-for-android-dns-filtering)
+- [AdGuard Home Parental Control](https://github.com/arfshl/adblock-dns-config/tree/main#parental-control)
+- [uBlock Origin | Brave Browser | AdGuard for Android Recommended Filter](https://github.com/arfshl/adblock-dns-config/tree/main#ublock-origin--brave-browser--adguard-for-android)
+- [uBlock Origin Lite](https://github.com/arfshl/adblock-dns-config/tree/main#ublock-origin-lite)
+- [Android/iOS Secure DNS](https://github.com/arfshl/adblock-dns-config/blob/main/docs/android-resolvers.md)
+- [NextDNS Configuration](https://github.com/arfshl/adblock-dns-config/blob/main/docs/nextdns.md)
+- [AdGuard Private DNS](https://github.com/arfshl/adblock-dns-config/blob/main/docs/adguarddns.md)
+- [AhaDNS Configuration](https://github.com/arfshl/adblock-dns-config/blob/main/docs/ahadns.md)
+- [AdGuard Home/AdGuard for Android DNS Upstream](https://github.com/arfshl/adblock-dns-config/blob/main/docs/resolvers.md)
 
 ## AdGuard Home or AdGuard for Android DNS Filtering
 
@@ -27,7 +27,7 @@
 
 - [Adobe Tracker Blocklist (if you use adobe products)](https://a.dove.isdumb.one/list.txt)
 
-- [Custom Filter (blocks tor2web, disable IDN homographs (non-latin domains and TLDs), unblocking important domain)](https://raw.githubusercontent.com/arfshl/personal-blocklist/refs/heads/main/internal-usage/b.txt)
+- [Custom Filter (blocks tor2web, disable IDN homographs (non-latin domains and TLDs), unblocking important domain)](https://raw.githubusercontent.com/arfshl/adblock-dns-config/refs/heads/main/internal-usage/b.txt)
 
 #### AdGuard Home Parental Control
 
@@ -39,7 +39,7 @@
 
 - [ABPindo Adult](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_adult.txt)
 
-- [personal-blocklist anti-gambling (Experimental)](https://github.com/arfshl/personal-blocklist/raw/main/my-filter/antijudol.txt)
+- [adblock-dns-config anti-gambling (Experimental)](https://github.com/arfshl/adblock-dns-config/raw/main/my-filter/antijudol.txt)
 
 - [HaGeZi NSFW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt)
 
@@ -92,12 +92,12 @@
 
 
 #### I also shared my personal configuration files, notes that this only optimized for my own devices, only use this for references
-[AdGuard for Android](https://github.com/arfshl/personal-blocklist/archive/refs/heads/adguard-for-android-config.zip)
+[AdGuard for Android](https://github.com/arfshl/adblock-dns-config/archive/refs/heads/adguard-for-android-config.zip)
 
-[Private AdGuard DNS](https://github.com/arfshl/personal-blocklist/raw/main/res/adguarddnsconfig.txt)
+[Private AdGuard DNS](https://github.com/arfshl/adblock-dns-config/raw/main/res/adguarddnsconfig.txt)
 
-[uBlock Origin](https://github.com/arfshl/personal-blocklist/raw/main/res/ublock0config.txt)
+[uBlock Origin](https://github.com/arfshl/adblock-dns-config/raw/main/res/ublock0config.txt)
 
-[AdGuard Home for Windows](https://github.com/arfshl/personal-blocklist/raw/main/res/aghome-win.yaml)
+[AdGuard Home for Windows](https://github.com/arfshl/adblock-dns-config/raw/main/res/aghome-win.yaml)
 
-[AdGuard Home for Linux](https://github.com/arfshl/personal-blocklist/raw/main/res/aghome-linux.yaml)
+[AdGuard Home for Linux](https://github.com/arfshl/adblock-dns-config/raw/main/res/aghome-linux.yaml)

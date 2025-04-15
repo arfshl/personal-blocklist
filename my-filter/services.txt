@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: personal-blocklist (Parental Control)
+! Title: adblock-dns-config (Parental Control)
 ! Version: 310525
-! Homepage: https://github.com/arfshl/personal-blocklist
+! Homepage: https://github.com/arfshl/adblock-dns-config
 ! Description: My User Filter
 ! Expires: 1 days
 ! Sources: https://github.com/AdguardTeam/HostlistsRegistry/tree/main/services

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: personal-blocklist (DNS Ads+Trackers)
+! Title: adblock-dns-config (DNS Ads+Trackers)
 ! Version: 12042025
-! Homepage: https://github.com/arfshl/personal-blocklist
+! Homepage: https://github.com/arfshl/adblock-dns-config
 ! Description: Aims to block missed ads/tracker from recommended filter immediately
 ! Expires: 1 days
 

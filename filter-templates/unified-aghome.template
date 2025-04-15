@@ -1,18 +1,18 @@
 [Adblock Plus 2.0] 
-! Title: personal-blocklist (Unified Reccomendation DNS Filter For AdGuard Home)
+! Title: adblock-dns-config (Unified Reccomendation DNS Filter For AdGuard Home)
 ! Last Modified: %timestamp% 
-! Homepage: https://github.com/arfshl/personal-blocklist 
+! Homepage: https://github.com/arfshl/adblock-dns-config 
 ! Description: Unifies my personal filter and reccomended dns filter, updated every hour, use with your own risks
 ! Expires: 1 days 
 
-! personal-blocklist (Ads+Tracker, Security, Tor2Web, Unblock)
-%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/dns.txt% 
+! adblock-dns-config (Ads+Tracker, Security, Tor2Web, Unblock)
+%include https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/dns.txt% 
 
-%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/security.txt%
+%include https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/security.txt%
 
-%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/tor2web.txt% 
+%include https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/tor2web.txt% 
 
-%include https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt%
+%include https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/unblock.txt%
 
 ! HaGeZi Multi Pro
 %include https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt%

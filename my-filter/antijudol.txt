@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: personal-blocklist (Anti-Judol)
+! Title: adblock-dns-config (Anti-Judol)
 ! Version: 31052025
-! Homepage: https://github.com/arfshl/personal-blocklist
+! Homepage: https://github.com/arfshl/adblock-dns-config
 ! Description: Memblokir situs dan iklan judi online di level domain
 ! Expires: 1 days
 

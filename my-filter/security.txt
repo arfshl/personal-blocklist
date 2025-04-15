@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: personal-blocklist (Security Add-on)
+! Title: adblock-dns-config (Security Add-on)
 ! Version: 21032025
-! Homepage: https://github.com/arfshl/personal-blocklist
+! Homepage: https://github.com/arfshl/adblock-dns-config
 ! Description: Extend dangerous website blocking, immediate threat blocking
 ! Expires: 1 days
 

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: personal-blocklist (Unblock)
+! Title: adblock-dns-config (Unblock)
 ! Version: 14042025
-! Homepage: https://github.com/arfshl/personal-blocklist
+! Homepage: https://github.com/arfshl/adblock-dns-config
 ! Description: Unblock false positives or important domain
 ! Expires: 1 days
 

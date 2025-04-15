@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Version: 202504140846
-! Title: personal-blocklist (Internal Usage DNS Filtering)
+! Title: adblock-dns-config (Internal Usage DNS Filtering)
 ! Last Modified: 14 Apr 2025 08:46 UTC
-! Homepage: https://github.com/arfshl/personal-blocklist
+! Homepage: https://github.com/arfshl/adblock-dns-config
 ! Description: My User Filter
 ! Expires: 1 days
 
-! personal-blocklist (Ads+Tracker, Security, Tor2Web, Unblock, Element Filter)
-! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/adblock.txt ***
+! adblock-dns-config (Ads+Tracker, Security, Tor2Web, Unblock, Element Filter)
+! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/adblock.txt ***
 
 ! Google Login Popup
 ||accounts.google.com/gsi/iframe/select$subdocument
@@ -16,12 +16,12 @@
 fandom.com###age-gate
 fandom.com##.notifications-box
 
-! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/dns.txt ***
+! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/dns.txt ***
 
 ! !! Blocked Domain
 
 
-! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/security.txt ***
+! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/security.txt ***
 
 ! Disable IDN Homographs
 *xn--*.*
@@ -29,7 +29,7 @@ fandom.com##.notifications-box
 ! Phishing BCA
 bca-*.*
 
-! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/tor2web.txt ***
+! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/tor2web.txt ***
 
 ! Tor2Web main sites
 ||tor2web.org^
@@ -37,7 +37,7 @@ bca-*.*
 ! Tor2Web proxy
 *.onion.*
 
-! *** https://raw.githubusercontent.com/arfshl/personal-blocklist/main/my-filter/unblock.txt ***
+! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/unblock.txt ***
 
 ! ! WindowsSpyBlocker Update whitelists
 
