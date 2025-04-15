@@ -80,7 +80,7 @@
 
 - [🚪 Browse websites without logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/BrowseWebsitesWithoutLoggingIn.txt)
 
-## uBlock Origin Lite
+## uBlock Origin Lite [(Chrome, Edge, Opera, Vivaldi, and other Chromium-based browsers)](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=en)
 #### Settings
 - Default filtering mode: Complete
 - Enable strict blocking: ON
