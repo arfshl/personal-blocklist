@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202504140846
+! Version: 202504151424
 ! Title: adblock-dns-config (Internal Usage DNS Filtering)
-! Last Modified: 14 Apr 2025 08:46 UTC
+! Last Modified: 15 Apr 2025 14:24 UTC
 ! Homepage: https://github.com/arfshl/adblock-dns-config
 ! Description: My User Filter
 ! Expires: 1 days
@@ -54,6 +54,7 @@ bca-*.*
 ! Microsoft Edge Extensions
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
 
+! lk21.de
 @@||lk21static.buzz^
 @@||comment.xx1.red^
 @@||playeriframe.lol^
