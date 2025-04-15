@@ -20,8 +20,6 @@
 - Blocklists -> Add : 
 - NextDNS Ads & Trackers Blocklist
 - HaGeZi - Multi PRO
-
-
 - Native Tracking Protection -> Depends on your device
 - Block Disguised Third-Party Trackers -> ON
 - Allow Affiliate & Tracking Links -> ON
