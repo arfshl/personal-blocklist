@@ -7,6 +7,7 @@
 - [uBlock Origin Lite](https://github.com/arfshl/personal-blocklist/tree/main#ublock-origin-lite)
 - [Android/iOS Secure DNS](https://github.com/arfshl/personal-blocklist/blob/main/docs/android-resolvers.md)
 - [NextDNS Configuration](https://github.com/arfshl/personal-blocklist/blob/main/docs/nextdns.md)
+- [AdGuard Private DNS](https://github.com/arfshl/personal-blocklist/blob/main/docs/adguarddns.md)
 - [AhaDNS Configuration](https://github.com/arfshl/personal-blocklist/blob/main/docs/ahadns.md)
 - [AdGuard Home/AdGuard for Android DNS Upstream](https://github.com/arfshl/personal-blocklist/blob/main/docs/resolvers.md)
 
