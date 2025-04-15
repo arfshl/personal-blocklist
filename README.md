@@ -1,4 +1,4 @@
-# personal-blocklist
+# Adblock and DNS Services Configuration
 
 ## Table of Contents
 - [AdGuard Home or AdGuard for Android DNS Filtering](https://github.com/arfshl/personal-blocklist/tree/main#adguard-home-or-adguard-for-android-dns-filtering)
