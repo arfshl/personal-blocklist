@@ -29,7 +29,7 @@
 - YouTube Restricted Mode -> Optional, can block video comments
 - Block Bypass Methods -> ON
 
-#### Settings
+### Settings
  - Logs: Storage Location -> Swiss
  - Block Page -> OFF
  - Anonymized EDNS Client Subnet -> ON
