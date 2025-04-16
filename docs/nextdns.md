@@ -36,5 +36,5 @@
  - Block Page -> OFF
  - Anonymized EDNS Client Subnet -> ON
  - Cache Boost -> ON
- - CNAME Flattening -> OFF
+ - CNAME Flattening -> Reduces query, but can cause issues.
  - Web3 -> OFF
