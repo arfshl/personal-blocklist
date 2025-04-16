@@ -1,5 +1,7 @@
 ## RethinkDNS Configuration (Ads,Tracker,Malware Blocking)
 
+! Warning: RethinkDNS Only update the filters every 7 days
+
 | DNS-Over-HTTPS | DNS-Over-TLS |
 | --- | --- |
 | https://sky.rethinkdns.com/1:YAoACBAAgADAvw== | 1-mafaacaqacaabqf7.max.rethinkdns.com |

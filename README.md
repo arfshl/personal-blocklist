@@ -8,6 +8,8 @@
 - [Android/iOS Secure DNS](https://github.com/arfshl/adblock-dns-config/blob/main/docs/android-resolvers.md)
 - [NextDNS Configuration](https://github.com/arfshl/adblock-dns-config/blob/main/docs/nextdns.md)
 - [AdGuard Private DNS](https://github.com/arfshl/adblock-dns-config/blob/main/docs/adguarddns.md)
+- [RethinkDNS Configuration](https://github.com/arfshl/adblock-dns-config/blob/main/docs/rethinkdns.md)
+- [dnswarden Configuration](https://github.com/arfshl/adblock-dns-config/blob/main/docs/dnswarden.md)
 - [AhaDNS Configuration](https://github.com/arfshl/adblock-dns-config/blob/main/docs/ahadns.md)
 - [AdGuard Home/AdGuard for Android DNS Upstream](https://github.com/arfshl/adblock-dns-config/blob/main/docs/dns-resolvers.md)
 
