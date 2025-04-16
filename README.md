@@ -27,7 +27,7 @@
 
 - [WindowsSpyBlocker Update - For disabling windows update, but blocks access to microsoft store](https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/dnscrypt/update.txt)
 
-- [Adobe Tracker Blocklist (if you use adobe products)](https://a.dove.isdumb.one/list.txt)
+- [Adobe Tracker Blocklist (if you use adobe products)](https://github.com/ignaciocastro/a-dove-is-dumb/raw/main/pihole.txt)
 
 - [Custom Filter (blocks tor2web, disable IDN homographs (non-latin domains and TLDs), unblocking important domain)](https://raw.githubusercontent.com/arfshl/adblock-dns-config/refs/heads/main/internal-usage/b.txt)
 

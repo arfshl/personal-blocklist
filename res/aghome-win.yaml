@@ -111,8 +111,8 @@ filters:
     name: HaGeZi's The World's Most Abused TLDs
     id: 1716520136
   - enabled: true
-    url: https://a.dove.isdumb.one/list.txt
-    name: Adobe GenP
+    url: https://github.com/ignaciocastro/a-dove-is-dumb/raw/main/pihole.txt
+    name: https://github.com/ignaciocastro/a-dove-is-dumb/raw/main/pihole.txt
     id: 1727819854
   - enabled: true
     url: https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/internal-usage/b.txt
