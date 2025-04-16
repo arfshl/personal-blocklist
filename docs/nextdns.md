@@ -32,7 +32,7 @@
 - Block Bypass Methods -> ON
 
 ### Settings
- - Logs: Storage Location -> Swiss
+ - Logs: Storage Location -> Switzerland
  - Block Page -> OFF
  - Anonymized EDNS Client Subnet -> ON
  - Cache Boost -> ON
