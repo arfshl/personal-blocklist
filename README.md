@@ -6,6 +6,7 @@
 - [uBlock Origin | Brave Browser | AdGuard for Android Recommended Filter](https://github.com/arfshl/adblock-dns-config/tree/main#ublock-origin--brave-browser--adguard-for-android)
 - [uBlock Origin Lite](https://github.com/arfshl/adblock-dns-config/tree/main#ublock-origin-lite)
 - [Android/iOS Secure DNS](https://github.com/arfshl/adblock-dns-config/blob/main/docs/android-resolvers.md)
+- [Parental Control DNS Services](https://github.com/arfshl/adblock-dns-config/blob/main/docs/parental-resolvers.md)
 - [NextDNS Configuration](https://github.com/arfshl/adblock-dns-config/blob/main/docs/nextdns.md)
 - [AdGuard Private DNS](https://github.com/arfshl/adblock-dns-config/blob/main/docs/adguarddns.md)
 - [RethinkDNS Configuration](https://github.com/arfshl/adblock-dns-config/blob/main/docs/rethinkdns.md)
