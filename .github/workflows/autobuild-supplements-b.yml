@@ -1,4 +1,4 @@
-name: autobuild-internal-usage-b
+name: autobuild-supplements
 
 on:
   workflow_dispatch:
@@ -30,6 +30,7 @@ jobs:
     - name: Build
       run: |
         flrender $GITHUB_WORKSPACE/filter-templates/b.template $GITHUB_WORKSPACE/internal-usage/b.txt
+        flrender $GITHUB_WORKSPACE/filter-templates/supplements.template $GITHUB_WORKSPACE/unified-filter/supplements.txt
     - name: Commit and push changes
       run: |
         git config user.name "github-actions[bot]"
