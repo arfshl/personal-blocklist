@@ -5,7 +5,9 @@
 ! Description: Unifies my personal filter and reccomended dns filter, updated every hour, use with your own risks
 ! Expires: 1 days 
 
-! adblock-dns-config (Ads+Tracker, Security, Tor2Web, Unblock)
+! adblock-dns-config (Ads+Tracker, Security, Tor2Web, Unblock, Elements)
+%include https://github.com/arfshl/adblock-dns-config/raw/refs/heads/main/my-filter/adblock.txt%
+
 %include https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/dns.txt% 
 
 %include https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/security.txt%
