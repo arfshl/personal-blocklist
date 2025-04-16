@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202504151424
+! Version: 202504160543
 ! Title: adblock-dns-config (Internal Usage DNS Filtering)
-! Last Modified: 15 Apr 2025 14:24 UTC
+! Last Modified: 16 Apr 2025 05:43 UTC
 ! Homepage: https://github.com/arfshl/adblock-dns-config
 ! Description: My User Filter
 ! Expires: 1 days

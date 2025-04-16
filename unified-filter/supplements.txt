@@ -1,1 +1,64 @@
+[Adblock Plus 2.0]
+! Version: 202504160543
+! Title: adblock-dns-config - Supplements
+! Last Modified: 16 Apr 2025 05:43 UTC
+! Homepage: https://github.com/arfshl/adblock-dns-config
+! Description: Supplements (blocks missed domain/elements, tor2web, IDN homographs (non-latin domains and TLDs), unblocking important domain)
+! Expires: 1 days
 
+! adblock-dns-config (Ads+Tracker, Security, Tor2Web, Unblock, Element Filter)
+! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/adblock.txt ***
+
+! Google Login Popup
+||accounts.google.com/gsi/iframe/select$subdocument
+
+! Fandom Age Personalization
+fandom.com###age-gate
+fandom.com##.notifications-box
+
+! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/dns.txt ***
+
+! !! Blocked Domain
+
+
+! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/security.txt ***
+
+! Disable IDN Homographs
+*xn--*.*
+
+! Phishing BCA
+bca-*.*
+
+! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/tor2web.txt ***
+
+! Tor2Web main sites
+||tor2web.org^
+
+! Tor2Web proxy
+*.onion.*
+
+! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/unblock.txt ***
+
+! ! WindowsSpyBlocker Update whitelists
+
+! Windows Defender definition update
+@@||definitionupdates.microsoft.com^
+
+! Windows Update Catalog
+@@||catalog.update.microsoft.com^
+@@||catalog.s.download.windowsupdate.com^
+
+! OneDrive
+@@||skydrivesync.policies.live.net^
+
+! Microsoft Edge Extensions
+@@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
+
+! lk21.de
+@@||lk21static.buzz^
+@@||comment.xx1.red^
+@@||playeriframe.lol^
+@@||cloud-x-21-srb.amino01.lol^
+@@||short.icu^
+@@||globalcdn40.buzz^
+@@||idocdn.com^
