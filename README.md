@@ -5,6 +5,7 @@
 - [AdGuard Home Parental Control](https://github.com/arfshl/adblock-dns-config/tree/main#parental-control)
 - [uBlock Origin | Brave Browser | AdGuard for Android Recommended Filter](https://github.com/arfshl/adblock-dns-config/tree/main#ublock-origin--brave-browser--adguard-for-android)
 - [uBlock Origin Lite](https://github.com/arfshl/adblock-dns-config/tree/main#ublock-origin-lite)
+- [Recommended Tampermonkey Userscirpt](https://github.com/arfshl/adblock-dns-config/tree/main#recommended-tampermonkey-userscripts)
 - [Android/iOS Secure DNS](https://github.com/arfshl/adblock-dns-config/blob/main/docs/android-resolvers.md)
 - [Parental Control DNS Services](https://github.com/arfshl/adblock-dns-config/blob/main/docs/parental-resolvers.md)
 - [NextDNS Configuration](https://github.com/arfshl/adblock-dns-config/blob/main/docs/nextdns.md)
@@ -93,6 +94,12 @@
 - Miscellaneous: Enable AdGuard URL Tracking Protection
 - Regions, Languages: Depends on your region and language sites (ABPindo for Indonesian Languages)
 
+## Recommended [Tampermonkey](https://www.tampermonkey.net/) Useerscript 
+Removing more annoying elements from the websites
+
+[DisableAMP](https://userscripts.adtidy.org/release/disable-amp/1.0/disable-amp.user.js) - This is a very simple userscript that disables AMP pages on the Google search results page. Open Google search results on a mobile phone, click on the link marked as AMP. This link should be opened without AMP.
+
+[AutoAllPages (Indonesian Only)](https://raw.githubusercontent.com/reforget-id/AutoAllPage/main/script/autoallpage.user.js) - Otomatis menampilkan semua halaman artikel berita dalam 1 halaman.
 
 #### I also shared my personal configuration files, notes that this only optimized for my own devices, only use this for references
 [AdGuard for Android](https://github.com/arfshl/adblock-dns-config/archive/refs/heads/adguard-for-android-config.zip)
