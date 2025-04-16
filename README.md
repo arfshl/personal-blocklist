@@ -31,7 +31,9 @@
 
 - [Adobe Tracker Blocklist (if you use adobe products)](https://github.com/ignaciocastro/a-dove-is-dumb/raw/main/pihole.txt)
 
-- [Custom Filter (blocks tor2web, disable IDN homographs (non-latin domains and TLDs), unblocking important domain)](https://raw.githubusercontent.com/arfshl/adblock-dns-config/refs/heads/main/internal-usage/b.txt)
+- [Supplements (blocks missed domain/elements, tor2web, IDN homographs (non-latin domains and TLDs), unblocking important domain)](https://github.com/arfshl/adblock-dns-config/edit/main/unified-filter/supplements.txt)
+
+- [Unified Filters (EXPERIMENTAL: Combining all of above, except WindowsSpyBlocker Update. Use this with your own risks)](https://github.com/arfshl/adblock-dns-config/raw/main/unified-filter/aghome.txt)
 
 #### AdGuard Home Parental Control
 
@@ -77,13 +79,17 @@
 
 - Make sure ABPindo is enabled (For indonesian region)
 
-- [HaGeZi Threat Intelligence Feeds](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt)
+- [HaGeZi Threat Intelligence Feeds (Unnecesary if you already use this on DNS-level)](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt)
 
-- [Abused TLDs - for local phishing](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-ublock.txt)
+- [Abused TLDs - for local phishing (Unnecesary if you already use this on DNS-level)](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-ublock.txt)
 
 - [AdBlockID (for Indonesian region)](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/realodix/AdBlockID@master/dist/adblockid.adfl.txt&title=AdBlockID)
 
 - [🚪 Browse websites without logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/BrowseWebsitesWithoutLoggingIn.txt)
+
+- [Supplements (blocks missed domain/elements, tor2web, IDN homographs (non-latin domains and TLDs), unblocking important domain)](https://github.com/arfshl/adblock-dns-config/edit/main/unified-filter/supplements.txt)
+
+- [Unified Filters (EXPERIMENTAL: Combining all of above, Use this with your own risks)](https://github.com/arfshl/adblock-dns-config/raw/main/unified-filter/ub0.txt)
 
 ## uBlock Origin Lite [(Chrome, Edge, Opera, Vivaldi, and other Chromium-based browsers)](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=en)
 #### Settings
@@ -101,13 +107,16 @@ Removing more annoying elements from the websites
 
 [AutoAllPages (Indonesian Only)](https://raw.githubusercontent.com/reforget-id/AutoAllPage/main/script/autoallpage.user.js) - Otomatis menampilkan semua halaman artikel berita dalam 1 halaman.
 
-#### I also shared my personal configuration files, notes that this only optimized for my own devices, only use this for references
-[AdGuard for Android](https://github.com/arfshl/adblock-dns-config/archive/refs/heads/adguard-for-android-config.zip)
+#### I also shared my personal configuration files, notes that this only optimized for my own devices, only use this for references\
 
-[Private AdGuard DNS](https://github.com/arfshl/adblock-dns-config/raw/main/res/adguarddnsconfig.txt)
+- [My Personal filter](https://raw.githubusercontent.com/arfshl/adblock-dns-config/refs/heads/main/internal-usage/b.txt)
 
-[uBlock Origin](https://github.com/arfshl/adblock-dns-config/raw/main/res/ublock0config.txt)
+- [AdGuard for Android](https://github.com/arfshl/adblock-dns-config/archive/refs/heads/adguard-for-android-config.zip)
 
-[AdGuard Home for Windows](https://github.com/arfshl/adblock-dns-config/raw/main/res/aghome-win.yaml)
+- [Private AdGuard DNS](https://github.com/arfshl/adblock-dns-config/raw/main/res/adguarddnsconfig.txt)
 
-[AdGuard Home for Linux](https://github.com/arfshl/adblock-dns-config/raw/main/res/aghome-linux.yaml)
+- [uBlock Origin](https://github.com/arfshl/adblock-dns-config/raw/main/res/ublock0config.txt)
+
+- [AdGuard Home for Windows](https://github.com/arfshl/adblock-dns-config/raw/main/res/aghome-win.yaml)
+
+- [AdGuard Home for Linux](https://github.com/arfshl/adblock-dns-config/raw/main/res/aghome-linux.yaml)
