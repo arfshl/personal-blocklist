@@ -7,7 +7,7 @@
 | --- | --- |
 | https://blitz.ahadns.com/1:1.8.18.20.22.23 | https://blitz.ahadns.com/config/mobileconfig?path=1:1.8.18.20.22.23 |
 
-Composition:
+List Used:
 - OISD Big
 - 1Hosts Lite
 - StevenBlack
@@ -22,7 +22,7 @@ Composition:
 | --- | --- |
 | https://blitz.ahadns.com/1:1.3.4.8.9.10.11.18.20.22.23 | https://blitz.ahadns.com/config/mobileconfig?path=1:1.3.4.8.9.10.11.18.20.22.23 |
 
-Composition:
+List Used:
 
 Addition from above:
 - OISD NSFW
@@ -36,7 +36,7 @@ Addition from above:
 | --- | --- |
 | https://blitz.ahadns.com/1:1.3.4.8.9.10.11.18.19.20.22.23.24 | https://blitz.ahadns.com/config/mobileconfig?path=1:1.3.4.8.9.10.11.18.19.20.22.23.24 |
 
-Composition:
+List Used:
 
 Addition from above:
 - TBLP Facebook 
