@@ -31,7 +31,7 @@
 
 - [Adobe Tracker Blocklist (if you use adobe products)](https://github.com/ignaciocastro/a-dove-is-dumb/raw/main/pihole.txt)
 
-- [Supplements (blocks missed domain/elements, tor2web, IDN homographs (non-latin domains and TLDs), unblocking important domain)](https://github.com/arfshl/adblock-dns-config/edit/main/unified-filter/supplements.txt)
+- [Supplements (blocks missed domain i came acrross, tor2web, IDN homographs (non-latin domains and TLDs), unblocking important domain)](https://github.com/arfshl/adblock-dns-config/edit/main/unified-filter/supplements.txt)
 
 - [Unified Filters (EXPERIMENTAL: Combining all of above, except WindowsSpyBlocker Update. Use this with your own risks)](https://github.com/arfshl/adblock-dns-config/raw/main/unified-filter/aghome.txt)
 
@@ -41,15 +41,11 @@
 
 - [HaGeZi Gambling](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt)
 
-- [NextDNS Gambling](https://github.com/arfshl/nextdns-blocklists/raw/latest/subscriptions/gambling.txt)
-
 - [ABPindo Adult](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_adult.txt)
 
 - [adblock-dns-config anti-gambling (Experimental)](https://github.com/arfshl/adblock-dns-config/raw/main/my-filter/antijudol.txt)
 
 - [HaGeZi NSFW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt)
-
-- [NextDNS Porn](https://github.com/arfshl/nextdns-blocklists/raw/latest/subscriptions/porn.txt)
 
 - [Safesearch Enforcing](https://github.com/AdguardTeam/HostlistsRegistry/raw/refs/heads/main/assets/engines_safe_search.txt)
 
@@ -57,13 +53,7 @@
 
 - [HaGeZi Safesearch Not Supported](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt)
 
-- [NextDNS No Safesearch](https://raw.githubusercontent.com/nextdns/no-safesearch/refs/heads/main/domains)
-
 - [HaGeZi Piracy](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt)
-
-- [NextDNS Piracy](https://github.com/arfshl/nextdns-blocklists/raw/latest/subscriptions/piracy.txt)
-
-- [NextDNS Dating](https://github.com/arfshl/nextdns-blocklists/raw/latest/subscriptions/dating.txt)
 
 - [ShadowWhisperer's Dating List](https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating)
 
