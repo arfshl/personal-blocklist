@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202504181226
+! Version: 202504181231
 ! Title: adblock-dns-config - Supplements
-! Last Modified: 18 Apr 2025 12:26 UTC
+! Last Modified: 18 Apr 2025 12:31 UTC
 ! Homepage: https://github.com/arfshl/adblock-dns-config
 ! Description: Supplements (blocks missed domain/elements, tor2web, IDN homographs (non-latin domains and TLDs), unblocking important domain)
 ! Expires: 1 days
