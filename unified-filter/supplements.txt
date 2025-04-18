@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202504160543
+! Version: 202504181226
 ! Title: adblock-dns-config - Supplements
-! Last Modified: 16 Apr 2025 05:43 UTC
+! Last Modified: 18 Apr 2025 12:26 UTC
 ! Homepage: https://github.com/arfshl/adblock-dns-config
 ! Description: Supplements (blocks missed domain/elements, tor2web, IDN homographs (non-latin domains and TLDs), unblocking important domain)
 ! Expires: 1 days
@@ -31,11 +31,15 @@ bca-*.*
 
 ! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/tor2web.txt ***
 
-! Tor2Web main sites
-||tor2web.org^
 
-! Tor2Web proxy
+! Wildcard covering all
 *.onion.*
+
+! Per-Proxy
+||onion.to^
+||onion.cab^
+||onion.city^
+||onion.direct^
 
 ! *** https://raw.githubusercontent.com/arfshl/adblock-dns-config/main/my-filter/unblock.txt ***
 
