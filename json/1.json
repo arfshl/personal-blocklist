@@ -351,7 +351,7 @@
       "displayOrder" : 2,
       "name" : "EasyPrivacy",
       "description" : "Privacy protection supplement for EasyList.",
-      "version" : "2.1.42.6",
+      "version" : "2.1.42.61",
       "group" : "Privacy",
       "subscriptionUrl" : "https://easylist.to/easylist/easyprivacy.txt",
       "homepage" : "https://github.com/easylist/easylist/",
@@ -359,7 +359,7 @@
         "id" : 2,
         "keyword" : "purpose:privacy"
       } ],
-      "lastTimeDownloaded" : 1743943432000,
+      "lastTimeDownloaded" : 1744965443000,
       "enabled" : true,
       "trusted" : true
     },
@@ -1646,7 +1646,7 @@
       "displayOrder" : 1,
       "name" : "AdGuard Tracking Protection filter",
       "description" : "The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.",
-      "version" : "2.0.82.79",
+      "version" : "2.0.83.44",
       "group" : "Privacy",
       "subscriptionUrl" : "https://filters.adtidy.org/android/filters/3_optimized.txt",
       "homepage" : "https://adguard.com/kb/general/ad-filtering/adguard-filters/",
@@ -1657,7 +1657,7 @@
         "id" : 10,
         "keyword" : "recommended"
       } ],
-      "lastTimeDownloaded" : 1743851146000,
+      "lastTimeDownloaded" : 1744974375000,
       "enabled" : true,
       "trusted" : true
     },
@@ -2074,8 +2074,8 @@
       "description" : "My User Filter",
       "version" : "202503311538",
       "group" : "Custom",
-      "subscriptionUrl" : "https://github.com/arfshl/adblock-dns-filter/raw/main/internal-usage/b.txt",
-      "homepage" : "https://github.com/arfshl/adblock-dns-filter",
+      "subscriptionUrl" : "https://github.com/arfshl/personal-blocklist/raw/main/internal-usage/b.txt",
+      "homepage" : "https://github.com/arfshl/personal-blocklist",
       "tags" : [ ],
       "lastTimeDownloaded" : 1743487817371,
       "enabled" : true,
@@ -14331,7 +14331,7 @@
   "AutoUpdatePeriod" : "Day",
   "CustomServers" : [ ],
   "QuicBypassPackages" : "// https://github.com/AdguardTeam/AdguardForAndroid/issues/3866\ncom.zhiliaoapp.musically\n// https://github.com/AdguardTeam/AdguardForAndroid/issues/3879\ncom.instagram.android\n    ",
-  "FallbackUpstreamsType" : "None",
+  "FallbackUpstreamsType" : "CustomDns",
   "Http3FilteringEnabled" : true,
   "ShownNotificationUniqueIds" : [ "org.torproject.android", "com.opera.mini.android" ],
   "DnsFilteringEnabled" : true,
@@ -17830,7 +17830,7 @@
       }
     }
   },
-  "OutboundProxyDnsUpstreams" : [ "94.140.14.15:5353", "9.9.9.9:9953" ],
+  "OutboundProxyDnsUpstreams" : [ "94.140.14.140:5353", "94.140.14.141:5353", "45.90.28.0:5353", "45.90.30.0:5353" ],
   "Theme" : "System",
   "AutomationEnabled" : false,
   "ExcludedIPv4Routes" : "// Reserved subnets\n0.0.0.0/8\n10.0.0.0/8\n100.64.0.0/10\n172.16.0.0/12\n192.0.0.0/24\n192.168.0.0/16\n224.0.0.0/4\n240.0.0.0/4\n255.255.255.255/32\n\n// Multicast range\n224.0.0.0/3\n\n// T-Mobile wi-fi calling (#233)\n208.54.0.0/16\n\n// AT&T wi-fi calling\n129.192.166.0/24\n\n// UK EE wi-fi calling (#582)\n109.249.0.0/16\n\n// Sprint wi-fi calling (#939)\n68.31.26.0/24\n\n// Verizon wi-fi calling (#1321)\n141.207.0.0/16\n\n// Orange PL wi-fi calling (#1796)\n217.116.96.0/20"
