@@ -5,8 +5,12 @@
 ! Description: Block Tor2Web service
 ! Expires: 1 days
 
-! Tor2Web main sites
-||tor2web.org^
 
-! Tor2Web proxy
+! Wildcard covering all
 *.onion.*
+
+! Per-Proxy
+||onion.to^
+||onion.cab^
+||onion.city^
+||onion.direct^
